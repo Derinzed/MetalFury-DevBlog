@@ -3,8 +3,58 @@
 
 @import "jekyll-theme-modernist";
 
-/* Your custom styles here */
-body {
-  background: yellow; /* Test to confirm CSS is applied */
+/* Custom navbar styles */
+.navbar {
+  margin: 20px 0;
 }
 
+.nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 20px;
+  background: #eee;
+  border-radius: 4px;
+  padding: 10px 15px;
+}
+
+.nav li {
+  position: relative;
+}
+
+.nav a {
+  text-decoration: none;
+  padding: 10px 15px;
+  display: block;
+  color: #333;
+}
+
+.nav a:hover {
+  background-color: #ccc;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  min-width: 160px;
+}
+
+.dropdown-content li a {
+  padding: 10px 15px;
+  white-space: nowrap;
+  color: #333;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
