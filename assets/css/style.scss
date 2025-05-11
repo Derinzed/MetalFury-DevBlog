@@ -1,7 +1,12 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-modernist";
+
+/* Your custom styles here */
+body {
+  background: yellow; /* Test to confirm CSS is applied */
+}
 
 body {
   background: pink;
