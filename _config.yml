@@ -1,7 +1,7 @@
 title: MetalFury DevBlog
 description: A site using the Modernist theme with custom navigation
 baseurl: "" # leave blank for root
-url: "https:/derinzed.github.io" # change to your GitHub Pages URL
+url: "https://derinzed.github.io" 
 
 # Enable remote theme
 remote_theme: pages-themes/modernist@v0.2.0
