@@ -1,0 +1,40 @@
+---
+---
+.nav {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+.nav li {
+  position: relative;
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  list-style: none;
+  padding: 0;
+  border: 1px solid #ccc;
+  z-index: 1000;
+}
+
+.dropdown-content li a {
+  display: block;
+  padding: 10px;
+  white-space: nowrap;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@import "jekyll-theme-modernist";
