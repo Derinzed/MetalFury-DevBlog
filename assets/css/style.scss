@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-modernist"; // Import the theme first
 
+body {
+  background: pink;
+}
+
 /* Now add your custom styles to override or extend */
 .nav {
   list-style: none;
