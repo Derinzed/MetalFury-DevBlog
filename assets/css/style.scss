@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-modernist"; // Import the theme first
+@import "{{ site.theme }}";
 
 body {
   background: pink;
