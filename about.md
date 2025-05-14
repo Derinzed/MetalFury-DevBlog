@@ -73,6 +73,7 @@ Architectural patterns are tools, not rules. A good engine favors solutions that
 An engine is not complete without tooling.  
 - Editors, debuggers, visualizers, profilers—these are part of the engine, not accessories.  
 - Tooling must consume the same APIs the game does. No hidden backdoors.
+- The editor is the first game an engine should produce.
 
 > “If a system can’t be inspected, it can’t be trusted. If it can’t be edited, it can’t be improved.”
 
