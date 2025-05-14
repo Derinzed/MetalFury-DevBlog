@@ -1,8 +1,9 @@
 # The MetalFury Manifesto: A Design Philosophy for Game Engines
 
 ## Purpose
-**MetalFury is not a codebase—it’s a philosophy for building powerful, sustainable, and adaptable game engines.**  
+**MetalFury is not just a codebase—it’s a philosophy for building powerful, sustainable, and adaptable game engines.**  
 It is built to empower the creation of complex, simulation-rich, and system-driven games with clarity, speed, and control.
+Game and game engine code should stop being viewed as "made to work" and instead should be made with elegance and intent, with a vision for the future.
 
 This manifesto defines the core principles of MetalFury, independent of any specific language, framework, or implementation.
 
@@ -13,6 +14,7 @@ Every system should be a self-contained unit, independently testable, replaceabl
 - No module should assume the presence or shape of another.  
 - Clear, narrow interfaces define cooperation between systems.  
 - The engine is a *collection of small, sharp tools*, not a single monolith.
+- If a module cannot exist on its own, then it has no place in the whole.
 
 > “Tightly coupled code rots. Loosely coupled systems evolve.”
 
@@ -32,14 +34,16 @@ Performance is not an optimization—it’s a design constraint.
 - Use dynamic behavior where runtime flexibility is essential (e.g. scripting, plugins).  
 - Everything should be opt-in, not imposed.
 
-> “Design for control, not convenience.”
+> “Design for control, not convenience; but there is convenience in control.”
 
 ---
 
 ## 4. Extendable and Replaceable at Every Layer
-From input to rendering to AI to simulation, every core system must be swappable.  
-- The engine owns no assumptions about your game’s architecture.  
+The engine’s primary concern is not to implement systems, but to manage, extend, and validate them.
+- The engine owns no assumptions about your game’s architecture.
+- The engine owns no assumptions about your game's system requirements.  
 - Custom logic and systems are not "hacks"—they are *first-class citizens*.
+- The role of the engine is to support the creation and validation of systems, while ensuring conformance.
 
 > “The engine should shape to the game, not the other way around.”
 
@@ -55,10 +59,10 @@ If it can’t be tested, it can’t be trusted.
 
 ---
 
-## 6. Entity-Component-System as Foundation, Not Dogma
-Entity-Component-System (ECS) is favored for its flexibility and scalability, but:
+## 6. Architecture is a Means, Not an End
+Architectural patterns are tools, not rules. A good engine favors solutions that serve the games they wish to make—not the model.
 - Use ECS because it fits the problem—not because it’s trendy.
-- Design ECS around clarity and decoupling, not around theoretical purity.
+- Engine design is around clean, efficient, performant code, not around theoretical purity.
 - Prefer systems that **express game logic cleanly**, even if it means bending the model.
 
 > “The architecture serves the game. Not the other way around.”
@@ -93,13 +97,14 @@ Avoid premature abstraction, over-optimization, or magical behavior.
 
 ---
 
-## 10. Designed to Outlive Its Creators
-An engine’s value isn’t in what it runs today—but in how gracefully it evolves.  
-- Design for human change: new contributors, new platforms, new games.  
-- Build documentation into the process.  
-- Leave room for growth, iteration, and reinvention.
+## 10. Complex simplicity
+The best engines are not those with the fewest parts, but those whose parts are clear, composable, and powerful.
+They are easy to begin with, and deep enough to never outgrow.  
+- Prioritize human understanding at every level.
+- Build APIs that are simple, not simplistic.
+- Make everything customizable, but nothing mandatory.
 
-> “If you stop working on it, it should still be usable. If someone else picks it up, they should understand it.”
+> “An engine that grows with the developer, outlives any game.”
 
 ---
 
