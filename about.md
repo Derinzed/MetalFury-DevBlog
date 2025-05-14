@@ -1,4 +1,4 @@
-# 🛠️ The MetalFury Manifesto: A Design Philosophy for Game Engines
+# The MetalFury Manifesto: A Design Philosophy for Game Engines
 
 ## Purpose
 **MetalFury is not a codebase—it’s a philosophy for building powerful, sustainable, and adaptable game engines.**  
@@ -8,7 +8,7 @@ This manifesto defines the core principles of MetalFury, independent of any spec
 
 ---
 
-## ⚙️ 1. Modular by Nature
+## 1. Modular by Nature
 Every system should be a self-contained unit, independently testable, replaceable, and composable.  
 - No module should assume the presence or shape of another.  
 - Clear, narrow interfaces define cooperation between systems.  
@@ -18,7 +18,7 @@ Every system should be a self-contained unit, independently testable, replaceabl
 
 ---
 
-## ⚡ 2. Performance as a First-Class Citizen
+## 2. Performance as a First-Class Citizen
 Performance is not an optimization—it’s a design constraint.  
 - Prioritize cache efficiency, data-oriented design, and lightweight communication.  
 - Avoid hidden costs. Favor transparency over ease when ease hides complexity.
@@ -27,7 +27,7 @@ Performance is not an optimization—it’s a design constraint.
 
 ---
 
-## 🔄 3. Compile-Time by Default, Runtime When It Matters
+## 3. Compile-Time by Default, Runtime When It Matters
 - Prefer static configuration, structural typing, and early validation.  
 - Use dynamic behavior where runtime flexibility is essential (e.g. scripting, plugins).  
 - Everything should be opt-in, not imposed.
@@ -36,7 +36,7 @@ Performance is not an optimization—it’s a design constraint.
 
 ---
 
-## 🔁 4. Extendable and Replaceable at Every Layer
+## 4. Extendable and Replaceable at Every Layer
 From input to rendering to AI to simulation, every core system must be swappable.  
 - The engine owns no assumptions about your game’s architecture.  
 - Custom logic and systems are not "hacks"—they are *first-class citizens*.
@@ -45,7 +45,7 @@ From input to rendering to AI to simulation, every core system must be swappable
 
 ---
 
-## 🧪 5. Built for Testing, Always
+## 5. Built for Testing, Always
 If it can’t be tested, it can’t be trusted.  
 - Every module should be independently verifiable.  
 - No single path through the engine should be required to validate behavior.  
@@ -55,7 +55,7 @@ If it can’t be tested, it can’t be trusted.
 
 ---
 
-## 🧱 6. Entity-Component-System as Foundation, Not Dogma
+## 6. Entity-Component-System as Foundation, Not Dogma
 Entity-Component-System (ECS) is favored for its flexibility and scalability, but:
 - Use ECS because it fits the problem—not because it’s trendy.
 - Design ECS around clarity and decoupling, not around theoretical purity.
@@ -65,7 +65,7 @@ Entity-Component-System (ECS) is favored for its flexibility and scalability, bu
 
 ---
 
-## 🔧 7. Tools are Core, Not Optional
+## 7. Tools are Core, Not Optional
 An engine is not complete without tooling.  
 - Editors, debuggers, visualizers, profilers—these are part of the engine, not accessories.  
 - Tooling must consume the same APIs the game does. No hidden backdoors.
@@ -74,7 +74,7 @@ An engine is not complete without tooling.
 
 ---
 
-## 📦 8. One Engine, Many Use Cases
+## 8. One Engine, Many Use Cases
 MetalFury is not a one-game engine. It must adapt across genres, styles, and timelines:  
 - Abstract assumptions (e.g. rendering, input, data) into interfaces.  
 - Make scripting and configuration language-agnostic where possible.  
@@ -84,7 +84,7 @@ MetalFury is not a one-game engine. It must adapt across genres, styles, and tim
 
 ---
 
-## 🧠 9. Thoughtful Over Clever
+## 9. Thoughtful Over Clever
 Avoid premature abstraction, over-optimization, or magical behavior.  
 - Favor simple systems with deep leverage.  
 - Readability, predictability, and maintainability win over cleverness.
@@ -93,7 +93,7 @@ Avoid premature abstraction, over-optimization, or magical behavior.
 
 ---
 
-## ⏳ 10. Designed to Outlive Its Creators
+## 10. Designed to Outlive Its Creators
 An engine’s value isn’t in what it runs today—but in how gracefully it evolves.  
 - Design for human change: new contributors, new platforms, new games.  
 - Build documentation into the process.  
