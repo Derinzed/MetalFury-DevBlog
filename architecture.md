@@ -66,3 +66,20 @@ ecs->registerSystem(std::move(renderECS));
 ```
 
 # Event Driven, Action-Delegated Design
+
+# From Editor To Game
+As stated in the MetalFury Manifesto, the editor is not an afterthought—it’s a first-class citizen. In fact, it is the first game the engine produces.
+
+MetalFury supports multiple editors: some may be general-purpose, others highly specialized. Regardless of their scope, all editors are built using the same MetalFury API available to any game project. This consistency raises an important question:
+“How do you transition from editing a game to running it?”
+
+The MetalFury Editor is designed to answer that by fully managing a game's workspace lifecycle. It initializes boilerplate source files, sets up the project structure, and supports hot loading, allowing you to modify and debug the game at runtime.
+
+Editor vs. Game Mode
+When a new game project is created, the editor:
+Initializes a dedicated workspace.
+  Generates the necessary project files and boilerplate source code.
+  Prepares the project to support two build modes:
+  Release Mode: Compiles the game into a standalone executable, ready for distribution.
+  Editor Mode: Compiles the game logic as a hot-loadable dynamic library (DLL), which is then ingested and executed inside the editor environment.
+This architecture empowers rapid iteration, live editing, and a clean separation between development-time tools and runtime behavior—all while staying true to MetalFury’s modular, transparent, and testable philosophy.
