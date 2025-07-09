@@ -173,7 +173,8 @@ This ensures a smooth workflow during engine extension, while keeping deployment
 
 > Plugins are optional—but when used, they’re treated as first-class citizens in the MetalFury ecosystem.
 
->**NOTE**
-> Plugins are designed for runtime extension, which makes the incompatable with the compile time setup of core systems.  If new core systems are wished > to be distributed this can be facilitated by distributing the new system's source and header files into the project and registering them using the
+> **NOTE**
+> Plugins are designed for runtime extension, which makes the incompatable with the compile time setup of core systems.  If new core systems are wished
+> to be distributed this can be facilitated by distributing the new system's source and header files into the project and registering them using the
 > standard MetalFury API during engine setup.
 
