@@ -144,7 +144,7 @@ Lua is lightweight, embeddable, and fast enough for real-time scripting, while r
 By default, the engine provides bindings to key systems through a stable, sandboxed interface. Projects are free to define additional bindings, embed their own interpreters, or layer scripting environments as needed.
 
 >  Lua empowers iteration, customization, and dynamic gameplay—without compromising the engine’s structural clarity.
->  While not always practicle, LUA provides a clean and rapid way of developing games that do not need complex and custom system creation.
+> While not always practicle, LUA provides a clean and rapid way of developing games that do not need complex and custom system creation.
 
 ---
 
@@ -173,8 +173,6 @@ This ensures a smooth workflow during engine extension, while keeping deployment
 
 > Plugins are optional—but when used, they’re treated as first-class citizens in the MetalFury ecosystem.
 
-> **NOTE**
-> Plugins are designed for runtime extension, which makes the incompatable with the compile time setup of core systems.  If new core systems are wished
-> to be distributed this can be facilitated by distributing the new system's source and header files into the project and registering them using the
-> standard MetalFury API during engine setup.
+>  **NOTE**
+>   Plugins are designed for runtime extension, which makes the incompatable with the compile time setup of core systems.  If new core systems are wished to be distributed this can be facilitated by distributing the new system's source and header files into the project and registering them using the standard MetalFury API during engine setup.
 
