@@ -176,3 +176,57 @@ This ensures a smooth workflow during engine extension, while keeping deployment
 >  **NOTE**  
 >   Plugins are designed for runtime extension, which makes the incompatable with the compile time setup of core systems.  If new core systems are wished to be distributed this can be facilitated by distributing the new system's source and header files into the project and registering them using the standard MetalFury API during engine setup.
 
+## The Two-Part Contract: Application and Engine
+
+MetalFury is built on a deliberate separation between **the Engine** and **the Application**. This two-part agreement defines a clear boundary:
+
+- **The Engine** is a self-contained, reusable framework and library  
+- **The Application** is any consumer of that engine—whether a game, editor, or custom tool  
+
+This separation of concerns is fundamental to MetalFury’s modular and developer-first design philosophy.
+
+---
+
+### Opt-In by Design
+
+Because the engine is *consumed* by the application layer, the application developer retains full control over what is used, extended, or overridden. This offers several powerful advantages:
+
+- Developers **own their entire project** structure  
+- **Only the systems they need** are included—core systems are *opt-in*  
+- Everything, including the **main game loop**, is customizable  
+- Core systems themselves are **extensible** and replaceable  
+- The engine never assumes your architecture—it adapts to it
+
+This flexibility empowers teams to build highly specialized or unconventional applications without battling against built-in assumptions.
+
+---
+
+### Application as Coordinator
+
+The second key benefit is architectural clarity: the **application acts as the orchestrator**.
+
+- It connects and manages engine systems  
+- It routes events and schedules actions  
+- It defines all gameplay logic and behavior  
+
+Meanwhile, **engine systems remain completely agnostic** to the application. They expose clean interfaces, but do not know or care about game-specific logic.
+
+This strict separation:
+- Keeps the engine **clean, reusable, and testable**  
+- Makes gameplay logic **explicit and domain-specific**  
+- Enables the same engine to power vastly different projects  
+
+---
+
+### Bridging the Gap with the Editor
+
+This model does come with an **inherently higher barrier to entry**—especially for new developers. But MetalFury addresses this with its built-in **Editor**, included as part of the core engine.
+
+The Editor:
+- Sets up projects and boilerplate automatically  
+- Manages dependencies and system registration  
+- Abstracts away advanced coordination until it’s needed  
+
+When you're ready to go deeper, the engine architecture is already there—waiting to be shaped to your needs.
+
+> You control the contract. The engine serves your vision, not the other way around.
