@@ -31,8 +31,8 @@ Performance is not an optimization—it’s a design constraint.
 
 ## 3. Compile-Time by Default, Runtime When It Matters
 - Prefer static configuration, structural typing, and early validation.  
-- Use dynamic behavior where runtime flexibility is essential (e.g. scripting, plugins).  
-- Everything should be opt-in, not imposed.
+- Use dynamic behavior where runtime flexibility is essential (e.g. scripting, plugins).
+- Do not defer structure or resolution for convenience when earlier determination yields greater consistency.
 
 > “Design for control, not convenience; but there is convenience in control.”
 
@@ -44,6 +44,7 @@ The engine’s primary concern is not to implement systems, but to manage, exten
 - The engine owns no assumptions about your game's system requirements.  
 - Custom logic and systems are not "hacks"—they are *first-class citizens*.
 - The role of the engine is to support the creation and validation of systems, while ensuring conformance.
+- Everything should be opt-in, not imposed.
 
 > “The engine should shape to the game, not the other way around.”
 
