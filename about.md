@@ -100,7 +100,8 @@ Avoid premature abstraction, over-optimization, or magical behavior.
 
 ---
 
-## 10. Complex simplicity
+## 10. Simplistic Complexity
+Simplistic Complexity is the idea that you can create a complex ecosystem usinga series of simple, composable elements.
 The best engines are not those with the fewest parts, but those whose parts are clear, composable, and powerful.
 They are easy to begin with, and deep enough to never outgrow.  
 - Prioritize human understanding at every level.
