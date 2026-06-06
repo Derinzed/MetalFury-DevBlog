@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.10.0"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Metal Fury: sole &lt;a href=&quot;https://travis-ci.org/r-lyeh/sole&quot;&gt;&lt;img src=&quot;https://api.travis-ci.org/r-lyeh/sole.svg?branch=master&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;</title>
+<title>Metal Fury: MetalFury DevBlog</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -71,106 +71,123 @@ $(function() {
 </div>
 
 <div><div class="header">
-  <div class="headertitle"><div class="title">sole <a href="https://travis-ci.org/r-lyeh/sole"><img src="https://api.travis-ci.org/r-lyeh/sole.svg?branch=master" alt="" style="pointer-events: none;" align="right" class="inline"/></a> </div></div>
+  <div class="headertitle"><div class="title"><a class="el" href="namespace_metal_fury.html">MetalFury</a> DevBlog </div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="md__metal_fury_23rd_party_2sole-master_2_r_e_a_d_m_e"></a></p>
+<div class="textblock"><h1><a class="anchor" id="intro_sec"></a>
+Welcome</h1>
+<p><a class="el" href="namespace_metal_fury.html">MetalFury</a> is both a philosophy and a practical engine implementation. The implementation lives under the <a class="el" href="namespace_metal_fury_1_1_core.html">MetalFury::Core</a> namespace and expresses the <a class="el" href="namespace_metal_fury.html">MetalFury</a> Manifesto through a modular, test-first architecture. This documentation highlights the core architectural concepts, the systems model, and how the engine exposes APIs for applications, editors, and plugins.</p>
+<h1><a class="anchor" id="nav"></a>
+Navigation</h1>
+<p>This project uses the Modernist theme for its developer blog and documentation. The primary navigation elements you will find when browsing the docs are:</p>
 <ul>
-<li>Sole is a lightweight C++11 library to generate universally unique identificators (UUID).</li>
-<li>Sole provides interface for UUID versions 0, 1 and 4.</li>
-<li>Sole rebuilds UUIDs from hexadecimal and base62 cooked strings as well.</li>
-<li>Sole is tiny, header-only, cross-platform.</li>
-<li>Sole is zlib/libpng licensed.</li>
+<li>Home</li>
+<li>Information<ul>
+<li><a class="el" href="namespace_metal_fury.html">MetalFury</a> Dev Blogs</li>
+<li>Pacific Fury Dev Blogs</li>
 </ul>
-<h2><a class="anchor" id="autotoc_md0"></a>
-Some theory</h2>
+</li>
+<li>About</li>
+<li>API Docs</li>
+</ul>
+<h1><a class="anchor" id="architecture"></a>
+Architecture Overview</h1>
+<p>Though concise here, the architecture is documented in detail throughout the API reference under the <a class="el" href="namespace_metal_fury_1_1_core.html">MetalFury::Core</a> namespace. The high-level goals are:</p>
 <ul>
-<li>UUID version 1 (48-bit MAC address + 60-bit clock with a resolution of 100 ns)</li>
-<li>UUID version 4 (122-bits of randomness)</li>
-<li>Use v1 if you are worried about leaving it up to probabilities.</li>
-<li>Use v4 if you are worried about security issues and determinism.</li>
+<li>Explicit, opt-in dependencies</li>
+<li>Small, well-tested, replaceable systems</li>
+<li>Clear separation between Engine and Application</li>
+<li>Editor-as-first-class-citizen for rapid iteration</li>
 </ul>
-<h2><a class="anchor" id="autotoc_md1"></a>
-About custom version 0</h2>
+<h2><a class="anchor" id="systems"></a>
+Systems Model</h2>
+<p>At the heart of <a class="el" href="namespace_metal_fury.html">MetalFury</a> is the concept of a "system". A system is a self-contained module with a single, well-defined responsibility. Systems are composed and wired together by the application. Two primary categories exist:</p>
+<h3><a class="anchor" id="core"></a>
+Core Systems</h3>
+<p>Core systems live in <a class="el" href="namespace_metal_fury_1_1_core_1_1_systems.html">MetalFury::Core::Systems</a> and manage global concerns that are independent of entities. Typical responsibilities include:</p>
 <ul>
-<li>UUID version 0 (16-bit PID + 48-bit MAC address + 60-bit clock with a resolution of 100ns since Unix epoch)</li>
-<li>Format is EPOCH_LOW-EPOCH_MID-VERSION(0)|EPOCH_HI-PID-MAC</li>
+<li>Rendering (Renderer, SwapChain, MaterialManagers)</li>
+<li>Audio output (AudioDevice, Mixer)</li>
+<li>Physics simulation (PhysicsWorld, CollisionManager)</li>
+<li>Input processing (InputManager)</li>
+<li>File I/O and configuration (ConfigurationManager)</li>
+<li>Scripting interfaces (ScriptingEngine)</li>
 </ul>
-<h2><a class="anchor" id="autotoc_md2"></a>
-Public API</h2>
+<p>Core systems are often created and registered at engine startup and provided to other systems via explicit dependency injection.</p>
+<h3><a class="anchor" id="ecs"></a>
+ECS Systems</h3>
+<p>ECS systems operate within the <a class="el" href="namespace_metal_fury.html">MetalFury</a> ECS world and are responsible only for processing entity component data. Examples:</p>
 <ul>
-<li><code><a class="el" href="structsole_1_1uuid.html">sole::uuid</a></code> 128-bit UUID base type that allows comparison and sorting. <code>std::ostream &lt;&lt;</code> friendly. <code>.str()</code> to get a cooked hex string. <code>.base62()</code> to get a cooked base62 string. <code>.pretty()</code> to get a pretty decomposed report.</li>
-<li><code><a class="el" href="namespacesole.html#ad19b7147fb4d23b86e3ddb5f46c1e8af">sole::uuid0()</a></code> creates an UUID v0.</li>
-<li><code><a class="el" href="namespacesole.html#af29f5d3590b126a30acffb5a4de2647b">sole::uuid1()</a></code> creates an UUID v1.</li>
-<li><code><a class="el" href="namespacesole.html#ab6ce9d75cc72e5d737c1b1966733ecb7">sole::uuid4()</a></code> creates an UUID v4.</li>
-<li><code><a class="el" href="namespacesole.html#a0fa8d2215b9cb4cd80d1c3382fe78317">sole::rebuild()</a></code> rebuilds an UUID from given string or 64-bit tuple.</li>
+<li>MovementSystem</li>
+<li>DamageSystem</li>
+<li>HealthSystem</li>
+<li>AnimationSystem</li>
+<li>TargetingSystem</li>
 </ul>
-<h2><a class="anchor" id="autotoc_md3"></a>
-Showcase</h2>
-<div class="fragment"><div class="line"> ++</div>
-<div class="line"><a class="code hl_namespace" href="namespacesole.html">~sole</a>&gt; cat sample.cc</div>
-<div class="line"><span class="preprocessor">#include &lt;iostream&gt;</span></div>
-<div class="line"><span class="preprocessor">#include &quot;<a class="code" href="sole_8hpp.html">sole.hpp</a>&quot;</span></div>
-<div class="line"> </div>
-<div class="line"><span class="keywordtype">int</span> main() {</div>
-<div class="line">    <a class="code hl_struct" href="structsole_1_1uuid.html">sole::uuid</a> u0 = <a class="code hl_function" href="namespacesole.html#ad19b7147fb4d23b86e3ddb5f46c1e8af">sole::uuid0</a>(), u1 = <a class="code hl_function" href="namespacesole.html#af29f5d3590b126a30acffb5a4de2647b">sole::uuid1</a>(), u4 = <a class="code hl_function" href="namespacesole.html#ab6ce9d75cc72e5d737c1b1966733ecb7">sole::uuid4</a>();</div>
-<div class="line"> </div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v0 string : &quot;</span> &lt;&lt; u0 &lt;&lt; std::endl;</div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v0 base62 : &quot;</span> &lt;&lt; u0.<a class="code hl_function" href="structsole_1_1uuid.html#af95b150f168a1e441f7e66c8f322c47c">base62</a>() &lt;&lt; std::endl;</div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v0 pretty : &quot;</span> &lt;&lt; u0.<a class="code hl_function" href="structsole_1_1uuid.html#ad96899850e1affe60054ee26ef48b44f">pretty</a>() &lt;&lt; std::endl &lt;&lt; std::endl;</div>
-<div class="line"> </div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v1 string : &quot;</span> &lt;&lt; u1 &lt;&lt; std::endl;</div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v1 base62 : &quot;</span> &lt;&lt; u1.base62() &lt;&lt; std::endl;</div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v1 pretty : &quot;</span> &lt;&lt; u1.pretty() &lt;&lt; std::endl &lt;&lt; std::endl;</div>
-<div class="line"> </div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v4 string : &quot;</span> &lt;&lt; u4 &lt;&lt; std::endl;</div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v4 base62 : &quot;</span> &lt;&lt; u4.base62() &lt;&lt; std::endl;</div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v4 pretty : &quot;</span> &lt;&lt; u4.pretty() &lt;&lt; std::endl &lt;&lt; std::endl;</div>
-<div class="line"> </div>
-<div class="line">    u1 = <a class="code hl_function" href="namespacesole.html#a0fa8d2215b9cb4cd80d1c3382fe78317">sole::rebuild</a>(<span class="stringliteral">&quot;F81D4FAE-7DEC-11D0-A765-00A0C91E6BF6&quot;</span>);</div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v1 rebuilt: &quot;</span> &lt;&lt; u1 &lt;&lt; <span class="stringliteral">&quot; -&gt; &quot;</span> &lt;&lt; u1.pretty() &lt;&lt; std::endl;</div>
-<div class="line"> </div>
-<div class="line">    u4 = <a class="code hl_function" href="namespacesole.html#a0fa8d2215b9cb4cd80d1c3382fe78317">sole::rebuild</a>(<span class="stringliteral">&quot;GITheR4tLlg-BagIW20DGja&quot;</span>);</div>
-<div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;uuid v4 rebuilt: &quot;</span> &lt;&lt; u4 &lt;&lt; <span class="stringliteral">&quot; -&gt; &quot;</span> &lt;&lt; u4.pretty() &lt;&lt; std::endl;</div>
-<div class="line">}</div>
-<div class="line"> </div>
-<div class="line"><a class="code hl_namespace" href="namespacesole.html">~sole</a>&gt; g++ sample.cc -<a class="code hl_namespace" href="namespacestd.html">std</a>=c++11 -lrt &amp;&amp; ./a.out</div>
-<div class="line">uuid v0 string : 00aed2f9-c5f8-0030-0fd8-00ffb77bd832</div>
-<div class="line">uuid v0 base62 : 3dNJHWv0aW-1MKpXy7mEmf</div>
-<div class="line">uuid v0 pretty : version=0,timestamp=<span class="stringliteral">&quot;03/07/2013 12:19:43&quot;</span>,mac=00ffb77bd832,pid=4056,</div>
-<div class="line"> </div>
-<div class="line">uuid v1 string : 14314b83-e3ca-11e2-8b83-00ffb77bd832</div>
-<div class="line">uuid v1 base62 : 1jU2TXBD9t4-BycINxiP5Jh</div>
-<div class="line">uuid v1 pretty : version=1,timestamp=<span class="stringliteral">&quot;03/07/2013 12:19:43&quot;</span>,mac=00ffb77bd832,clock_seq=2947,</div>
-<div class="line"> </div>
-<div class="line">uuid v4 string : fa237b32-d580-42db-aeb9-b09a1d90067e</div>
-<div class="line">uuid v4 base62 : LTTsO5t3jMR-F03eZqkMchC</div>
-<div class="line">uuid v4 pretty : version=4,randbits=fa237b32d58002db2eb9b09a1d90067e,</div>
-<div class="line"> </div>
-<div class="line">uuid v1 rebuilt : f81d4fae-7dec-11d0-a765-00a0c91e6bf6 -&gt; version=1,timestamp=<span class="stringliteral">&quot;03/02/1997 18:43:12&quot;</span>,mac=00a0c91e6bf6,clock_seq=10085,</div>
-<div class="line">uuid v4 rebuilt : bdd55e2f-6f6b-4088-8703-ddedba9456a2 -&gt; version=4,randbits=bdd55e2f6f6b0088703ddedba9456a2,</div>
-<div class="ttc" id="anamespacesole_html"><div class="ttname"><a href="namespacesole.html">sole</a></div><div class="ttdef"><b>Definition</b> sole.fwd.hpp:5</div></div>
-<div class="ttc" id="anamespacesole_html_a0fa8d2215b9cb4cd80d1c3382fe78317"><div class="ttname"><a href="namespacesole.html#a0fa8d2215b9cb4cd80d1c3382fe78317">sole::rebuild</a></div><div class="ttdeci">uuid rebuild(uint64_t ab, uint64_t cd)</div><div class="ttdef"><b>Definition</b> sole.hpp:726</div></div>
-<div class="ttc" id="anamespacesole_html_ab6ce9d75cc72e5d737c1b1966733ecb7"><div class="ttname"><a href="namespacesole.html#ab6ce9d75cc72e5d737c1b1966733ecb7">sole::uuid4</a></div><div class="ttdeci">uuid uuid4()</div><div class="ttdef"><b>Definition</b> sole.hpp:640</div></div>
-<div class="ttc" id="anamespacesole_html_ad19b7147fb4d23b86e3ddb5f46c1e8af"><div class="ttname"><a href="namespacesole.html#ad19b7147fb4d23b86e3ddb5f46c1e8af">sole::uuid0</a></div><div class="ttdeci">uuid uuid0()</div><div class="ttdef"><b>Definition</b> sole.hpp:692</div></div>
-<div class="ttc" id="anamespacesole_html_af29f5d3590b126a30acffb5a4de2647b"><div class="ttname"><a href="namespacesole.html#af29f5d3590b126a30acffb5a4de2647b">sole::uuid1</a></div><div class="ttdeci">uuid uuid1()</div><div class="ttdef"><b>Definition</b> sole.hpp:655</div></div>
-<div class="ttc" id="anamespacestd_html"><div class="ttname"><a href="namespacestd.html">std</a></div><div class="ttdef"><b>Definition</b> sole.hpp:98</div></div>
-<div class="ttc" id="asole_8hpp_html"><div class="ttname"><a href="sole_8hpp.html">sole.hpp</a></div></div>
-<div class="ttc" id="astructsole_1_1uuid_html"><div class="ttname"><a href="structsole_1_1uuid.html">sole::uuid</a></div><div class="ttdef"><b>Definition</b> sole.hpp:65</div></div>
-<div class="ttc" id="astructsole_1_1uuid_html_ad96899850e1affe60054ee26ef48b44f"><div class="ttname"><a href="structsole_1_1uuid.html#ad96899850e1affe60054ee26ef48b44f">sole::uuid::pretty</a></div><div class="ttdeci">std::string pretty() const</div><div class="ttdef"><b>Definition</b> sole.hpp:300</div></div>
-<div class="ttc" id="astructsole_1_1uuid_html_af95b150f168a1e441f7e66c8f322c47c"><div class="ttname"><a href="structsole_1_1uuid.html#af95b150f168a1e441f7e66c8f322c47c">sole::uuid::base62</a></div><div class="ttdeci">std::string base62() const</div><div class="ttdef"><b>Definition</b> sole.hpp:353</div></div>
-</div><!-- fragment --><h2><a class="anchor" id="autotoc_md4"></a>
-Special notes</h2>
+<p>ECS systems declare the component archetypes they care about and never reach outside the ECS world for global state. If an ECS system requires access to a core service, it must be passed that dependency by the application.</p>
+<h2><a class="anchor" id="core_ecs_interaction"></a>
+Core System ↔ ECS System Interaction</h2>
+<p>Core systems and ECS systems are deliberately decoupled. Interactions between these layers are achieved through two primary patterns:</p>
 <ul>
-<li>clang/g++ users: both <code>-std=c++11</code> and <code>-lrt</code> may be required when compiling <code><a class="el" href="sole_8cpp.html">sole.cpp</a></code></li>
+<li>Dependency injection (application wires a core system into an ECS system)</li>
+<li>Event-driven communication (systems publish and subscribe to lightweight events)</li>
 </ul>
-<h2><a class="anchor" id="autotoc_md5"></a>
-Changelog</h2>
+<p>Example (conceptual): </p><div class="fragment"><div class="line"><span class="comment">// At application composition time</span></div>
+<div class="line"><span class="keyword">auto</span> renderer = std::make_shared&lt;MetalFury::Core::Systems::Renderer&gt;();</div>
+<div class="line"><span class="keyword">auto</span> renderSystem = std::make_unique&lt;RenderECSSystem&gt;(renderer);</div>
+<div class="line">ecs.registerSystem(std::move(renderSystem));</div>
+</div><!-- fragment --><h1><a class="anchor" id="event_action"></a>
+Event and Action Architecture</h1>
+<p><a class="el" href="namespace_metal_fury.html">MetalFury</a> coordinates runtime behavior with a dual-model:</p>
+<h2><a class="anchor" id="events"></a>
+Events (instant)</h2>
+<p>Events are immediate, synchronous broadcast messages used for "happened now" semantics (collisions, input, state changes). They follow a publish/subscribe pattern and are type-safe. Event handlers are invoked in the frame where the event is fired.</p>
+<h2><a class="anchor" id="actions"></a>
+Actions (deferred)</h2>
+<p>Actions are explicit, deferred units of work submitted to an Action Queue. They encapsulate a callable and parameters and may return results. Actions are used for scheduling work outside the immediate frame or delegating tasks between systems when the requester is allowed to access the target system.</p>
+<p>Important design rule:</p><ul>
+<li>The requester must already have access to the system it delegates an action to.</li>
+</ul>
+<h1><a class="anchor" id="editor"></a>
+Editor and Workflow</h1>
+<p>The <a class="el" href="namespace_metal_fury.html">MetalFury</a> Editor is designed as the first game produced by the engine. Editor responsibilities include:</p>
 <ul>
-<li>v1.0.2 (2021/03/16): Merge speed improvements by @vihangm</li>
-<li>v1.0.1 (2017/05/16): Improve UUID4 and base62 performance; Fix warnings</li>
-<li>v1.0.0 (2016/02/03): Initial semver adherence; Switch to header-only; Remove warnings </li>
+<li>Creating a project workspace and boilerplate</li>
+<li>Compiling code for Editor Mode (hot-loadable DLL) and Release Mode</li>
+<li>Managing hot reload and workspace lifecycle</li>
 </ul>
+<p>This model enables live editing and rapid iteration while preserving a clean separation between tooling and runtime.</p>
+<h1><a class="anchor" id="scripting"></a>
+Scripting (Lua)</h1>
+<p>Lua is the default scripting language for <a class="el" href="namespace_metal_fury.html">MetalFury</a>. Scripting binds into the core engine through stable, sandboxed APIs. Lua is used to define game behaviour, hook into systems, and drive iteration workflows.</p>
+<h1><a class="anchor" id="plugins"></a>
+Plugins and Dynamic Extension</h1>
+<p>Plugins are supported as dynamic runtime extensions. Key points:</p>
+<ul>
+<li>Plugins are loaded after core systems initialize</li>
+<li>Plugins register via a defined interface and may optionally expose headers and libs during development</li>
+<li>At runtime a plugin DLL is sufficient</li>
+</ul>
+<p>Plugins allow modular feature addition without altering the engine core.</p>
+<h1><a class="anchor" id="contract"></a>
+Engine ↔ Application Contract</h1>
+<p><a class="el" href="namespace_metal_fury.html">MetalFury</a> enforces a two-part contract:</p>
+<ul>
+<li>The Engine provides a reusable, testable library (<a class="el" href="namespace_metal_fury_1_1_core.html">MetalFury::Core</a>)</li>
+<li>The Application orchestrates systems, composes dependencies, and defines gameplay</li>
+</ul>
+<p>This separation keeps the engine flexible, non-prescriptive, and suitable for many kinds of projects.</p>
+<h1><a class="anchor" id="references"></a>
+References</h1>
+<ul>
+<li>See the API Documentation pages for detailed reference on namespaces such as<ul>
+<li><a class="el" href="namespace_metal_fury_1_1_core.html">MetalFury::Core</a></li>
+<li><a class="el" href="namespace_metal_fury_1_1_core_1_1_systems.html">MetalFury::Core::Systems</a></li>
+<li><a class="el" href="namespace_metal_fury_1_1_core_1_1_globals.html">MetalFury::Core::Globals</a></li>
+</ul>
+</li>
+</ul>
+<dl class="section user"><dt>Project</dt><dd>Project maintained by Derinzed — hosted on GitHub Pages. </dd></dl>
 </div></div><!-- PageDoc -->
 <a href="doxygen_crawl.html"/>
 </div><!-- contents -->
