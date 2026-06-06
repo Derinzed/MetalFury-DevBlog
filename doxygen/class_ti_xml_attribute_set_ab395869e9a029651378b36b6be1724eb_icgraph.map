@@ -1,0 +1,29 @@
+<map id="TiXmlAttributeSet::First" name="TiXmlAttributeSet::First">
+<area shape="rect" id="Node000001" title=" " alt="" coords="704,124,837,167"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_element.html#a01d33358cce9d1817b557d314dda3779" title=" " alt="" coords="487,5,639,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="738,112,701,79,655,46,630,35,630,30,658,42,704,74,743,113"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_element.html#a5670933ec2d7d9763b9891acc05d7f7d" title=" " alt="" coords="480,56,647,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="709,117,655,97,620,86,620,81,657,92,714,117"/>
+<area shape="rect" id="Node000006" href="$class_ti_xml_element.html#ab931f2208ed76ba03465d8a1f86b5935" title=" " alt="" coords="485,107,641,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="686,136,642,132,642,127,691,135"/>
+<area shape="rect" id="Node000009" href="$class_ti_xml_element.html#a0153a30eacb8bcb22fc705bf6587aa14" title=" " alt="" coords="470,157,656,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="686,156,657,162,656,157,691,155"/>
+<area shape="rect" id="Node000010" href="$class_ti_xml_element.html#ad9326f97287828cf533de34fb8e10834" title="Access the first attribute in this element." alt="" coords="470,208,656,235"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="714,173,657,199,621,210,620,205,655,193,709,174"/>
+<area shape="rect" id="Node000013" href="$class_ti_xml_element.html#aa31a15cddfb8601a31236fe7d2569fb4" title=" " alt="" coords="494,259,632,285"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="743,177,704,216,658,249,630,261,629,255,655,244,701,212,738,179"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_element.html#ad58d300f4cfc0016ffa6861ebb718a0b" title=" " alt="" coords="238,56,404,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="462,70,406,72,405,67,467,69"/>
+<area shape="rect" id="Node000005" href="$class_ti_xml_element.html#aa049a47c5081c0d021968666360da261" title=" " alt="" coords="221,5,422,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="478,53,389,35,388,30,484,51"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="478,103,389,86,388,81,484,102"/>
+<area shape="rect" id="Node000007" href="$class_ti_xml_element.html#a810ea8fa40844c01334e5af2a26794cb" title="Creates a new Element and returns it &#45; the returned element is a copy." alt="" coords="249,107,394,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="467,121,395,123,394,117,472,119"/>
+<area shape="rect" id="Node000008" href="$class_ti_xml_element.html#a1ca4465f3c2eac6a60e641cd7f1d9f7e" title=" " alt="" coords="225,157,418,184"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="478,138,389,159,388,154,483,136"/>
+<area shape="rect" id="Node000011" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_x_m_l_loader.html#a12f5b85bcb70c847c14b5b45565704d7" title=" " alt="" coords="233,232,410,291"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="466,237,411,249,410,244,461,238"/>
+<area shape="poly" id="edge13_Node000011_Node000011" title=" " alt="" coords="357,217,345,213,321,211,301,213,288,217,281,224,280,233,276,230,277,222,285,213,300,207,321,205,346,208,362,218"/>
+<area shape="rect" id="Node000012" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_x_m_l_loader.html#a0c43b282bbded3eac5e01b478b9c0626" title=" " alt="" coords="5,232,173,291"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="215,262,173,264,173,259,220,261"/>
+</map>

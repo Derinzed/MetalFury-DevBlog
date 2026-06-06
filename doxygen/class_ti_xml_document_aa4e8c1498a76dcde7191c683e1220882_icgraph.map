@@ -1,0 +1,6 @@
+<map id="TiXmlDocument::Print" name="TiXmlDocument::Print">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,29,378,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="337,14,326,10,303,8,281,10,269,15,266,20,272,30,267,28,261,21,265,11,280,5,303,3,328,5,343,14"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_document.html#a8f5a1022168a5767e32becec7b6f44ee" title="Save a file using the given FILE*. Returns true if successful." alt="" coords="5,29,180,56"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="209,43,180,45,180,40,215,43"/>
+</map>

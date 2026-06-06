@@ -1,0 +1,9 @@
+<map id="TiXmlElement::QueryFloatAttribute" name="TiXmlElement::QueryFloatAttribute">
+<area shape="rect" id="Node000001" title="QueryFloatAttribute examines the attribute &#45; see QueryIntAttribute()." alt="" coords="5,27,181,69"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_element.html#ae04bad29ddb281a7e6c662b3882e9928" title="QueryDoubleAttribute examines the attribute &#45; see QueryIntAttribute()." alt="" coords="229,27,416,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,45,216,48,211,48,182,51"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_attribute_set.html#a6d4f03bb84f70c78171db27a869225c1" title=" " alt="" coords="480,5,637,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,34,467,30,462,31,417,39"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_attribute.html#a6fa41b710c1b79de37a97004aa600c06" title="QueryDoubleValue examines the value string. See QueryIntValue()." alt="" coords="464,56,652,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="417,57,451,64,446,64,416,62"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="cpplinq::detail::opt::get_ptr" name="cpplinq::detail::opt::get_ptr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="459,215,586,257"/>
+<area shape="rect" id="Node000002" href="$structcpplinq_1_1detail_1_1opt.html#af7ff6b2af69ffffb8642aaee7747cbde" title=" " alt="" coords="234,80,388,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,202,458,160,435,139,410,121,386,110,386,105,412,116,438,135,462,156,501,202"/>
+<area shape="rect" id="Node000006" href="$structcpplinq_1_1detail_1_1opt.html#aec3a5aba8fdfd82809a77c0da1fb7979" title=" " alt="" coords="234,131,388,157"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="476,206,410,172,378,161,378,155,412,167,481,206"/>
+<area shape="rect" id="Node000007" href="$structcpplinq_1_1detail_1_1opt.html#a516f15258aa9b44f0d23c7800ad1e72d" title=" " alt="" coords="247,181,374,224"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="441,224,375,215,375,210,447,223"/>
+<area shape="rect" id="Node000008" href="$structcpplinq_1_1detail_1_1opt.html#a417269590e12f362d7aef946474f1e78" title=" " alt="" coords="247,248,374,291"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="441,249,376,262,374,257,446,248"/>
+<area shape="rect" id="Node000009" href="$structcpplinq_1_1detail_1_1experimental_1_1container__iterator.html#a88eae3c14b24911b292fec9c00d066ad" title=" " alt="" coords="211,315,411,357"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="479,265,412,305,384,317,382,312,410,300,474,267"/>
+<area shape="rect" id="Node000010" href="$structcpplinq_1_1detail_1_1opt.html#aeded67ac30131a845d9aa525b2992eaf" title=" " alt="" coords="247,381,374,424"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="503,269,465,323,440,349,412,372,376,390,374,385,410,367,436,345,461,320,498,272"/>
+<area shape="rect" id="Node000003" href="$structcpplinq_1_1detail_1_1pairwise__range.html#a5abbe52949863d2d9413326b3c9df913" title=" " alt="" coords="5,5,163,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,76,160,51,159,46,250,74"/>
+<area shape="rect" id="Node000004" href="$structcpplinq_1_1detail_1_1opt.html#a8ccf5969a69d1b7246caa7eeb3135f1b" title=" " alt="" coords="20,72,148,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="216,95,149,96,147,91,220,92"/>
+<area shape="rect" id="Node000005" href="$structcpplinq_1_1detail_1_1opt.html#a4756a04848fe75f94f4e545e16c01e2c" title=" " alt="" coords="20,139,148,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="236,113,211,121,150,141,147,136,210,116,240,109"/>
+</map>

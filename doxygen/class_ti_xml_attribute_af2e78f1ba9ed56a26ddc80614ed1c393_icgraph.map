@@ -1,0 +1,15 @@
+<map id="TiXmlAttribute::Next" name="TiXmlAttribute::Next">
+<area shape="rect" id="Node000001" title="Get the next sibling attribute in the DOM. Returns null at end." alt="" coords="453,107,593,133"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_element.html#ab931f2208ed76ba03465d8a1f86b5935" title=" " alt="" coords="248,56,404,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="451,102,381,86,381,81,456,102"/>
+<area shape="rect" id="Node000006" href="$class_ti_xml_element.html#aa31a15cddfb8601a31236fe7d2569fb4" title=" " alt="" coords="257,107,395,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="435,120,396,123,395,117,440,120"/>
+<area shape="rect" id="Node000007" href="$class_ti_xml_printer.html#a6dccaf5ee4979f13877690afe28721e8" title="Visit an element." alt="" coords="247,157,405,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="456,137,381,159,380,154,451,138"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_element.html#a810ea8fa40844c01334e5af2a26794cb" title="Creates a new Element and returns it &#45; the returned element is a copy." alt="" coords="29,5,175,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,53,164,35,164,30,251,51"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_element.html#ad58d300f4cfc0016ffa6861ebb718a0b" title=" " alt="" coords="19,56,185,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="229,70,186,72,185,67,234,68"/>
+<area shape="rect" id="Node000005" href="$class_ti_xml_element.html#a1ca4465f3c2eac6a60e641cd7f1d9f7e" title=" " alt="" coords="5,107,199,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="246,88,165,109,163,104,251,86"/>
+</map>

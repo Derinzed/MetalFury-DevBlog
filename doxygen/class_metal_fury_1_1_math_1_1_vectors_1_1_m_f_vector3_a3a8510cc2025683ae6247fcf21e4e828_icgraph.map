@@ -1,0 +1,22 @@
+<map id="MetalFury::Math::Vectors::MFVector3::MFVector3" name="MetalFury::Math::Vectors::MFVector3::MFVector3">
+<area shape="rect" id="Node000001" title=" " alt="" coords="480,205,648,248"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#ac439d49dc63e37436e551b656abe0d7c" title=" " alt="" coords="255,39,432,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="534,193,489,144,461,118,431,96,411,84,411,79,433,91,464,114,493,140,540,193"/>
+<area shape="rect" id="Node000005" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#a1f256e9a1402d1e76faf9432fa63bd9c" title=" " alt="" coords="259,105,428,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="507,198,431,162,405,151,405,146,433,158,512,198"/>
+<area shape="rect" id="Node000007" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#ab55c7397c73b5ef7e4bdc0fe46a7c268" title=" " alt="" coords="259,172,428,215"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="462,212,428,209,428,203,467,211"/>
+<area shape="rect" id="Node000008" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#acae9c4da98b8462f0f8e48500e9d4765" title=" " alt="" coords="259,239,428,281"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="462,242,429,250,427,245,467,241"/>
+<area shape="rect" id="Node000009" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#ae3d3b68a6670242c0f9a1d0707523415" title=" " alt="" coords="259,305,428,348"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="512,255,433,296,406,307,404,302,431,291,507,256"/>
+<area shape="rect" id="Node000010" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#ab231eb220bc654b91eacb4815db6675e" title=" " alt="" coords="259,372,428,415"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="539,259,493,313,464,339,433,362,412,374,410,369,431,358,461,335,489,309,535,261"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_math_1_1_metal_fury_math.html#ae7a16c9ee4fd5ccffb8fe7825a6311b9" title=" " alt="" coords="15,72,197,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,76,199,83,196,78,242,73"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_math_1_1_quaternion_1_1_m_f_quaternion.html#ad2b935894e80138c910f37cf4bb87f17" title=" " alt="" coords="12,5,200,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="237,47,201,42,199,37,241,44"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="241,114,198,109,197,104,246,111"/>
+<area shape="rect" id="Node000006" href="$class_metal_fury_1_1_math_1_1_quaternion_1_1_m_f_quaternion.html#ad4ef82af9108bc7a349937461ff2133f" title=" " alt="" coords="5,139,207,181"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="241,142,209,148,206,143,246,139"/>
+</map>

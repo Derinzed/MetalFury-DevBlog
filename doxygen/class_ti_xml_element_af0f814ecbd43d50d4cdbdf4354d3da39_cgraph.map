@@ -1,0 +1,9 @@
+<map id="TiXmlElement::GetText" name="TiXmlElement::GetText">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,163,83"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_node.html#ae4fc3b6726cc9593784e1b622af249d5" title="The first child of this node. Will be null if there are no children." alt="" coords="211,5,361,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,53,217,35,213,38,141,58"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_node.html#a249f8cfd73c1fd7259529fa7c606bbd3" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="219,56,352,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,67,207,69,201,70,163,72"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_node.html#a3b260dd22313f310c0acb2e68ada6f5b" title=" " alt="" coords="223,107,349,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,81,217,102,212,103,140,86"/>
+</map>

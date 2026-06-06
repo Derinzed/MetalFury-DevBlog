@@ -1,0 +1,13 @@
+<map id="TiXmlDocument::ClearError" name="TiXmlDocument::ClearError">
+<area shape="rect" id="Node000001" title=" " alt="" coords="491,56,673,83"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_document.html#a789ad2f06f93d52bdb5570b2f3670289" title=" " alt="" coords="256,5,413,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,53,403,35,403,30,501,52"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_document.html#a9f5e84335708fde98400230f9f12659c" title="Create an empty document, that has no name." alt="" coords="226,56,443,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="473,70,444,72,443,67,478,69"/>
+<area shape="rect" id="Node000006" href="$class_ti_xml_document.html#ae4508b452d0c3061db085f3db27b8396" title="Create a document with a name. The name of the document is also the filename of the xml." alt="" coords="226,107,443,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="501,86,404,109,403,103,496,87"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_document.html#a41f6fe7200864d1dca663d230caf8db6" title=" " alt="" coords="5,5,178,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,20,179,21,178,16,242,18"/>
+<area shape="rect" id="Node000005" href="$class_ti_xml_document.html#a46a4dda6c56eb106d46d4046ae1e5353" title=" " alt="" coords="13,56,170,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="208,70,171,72,170,67,213,69"/>
+</map>

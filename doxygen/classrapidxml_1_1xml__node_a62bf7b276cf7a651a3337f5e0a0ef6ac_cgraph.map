@@ -1,0 +1,15 @@
+<map id="rapidxml::xml_node::remove_first_node" name="rapidxml::xml_node::remove_first_node">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,142,93"/>
+<area shape="rect" id="Node000002" href="$classrapidxml_1_1xml__node.html#aee9b7ecb01034f1857a5387af7e50e23" title=" " alt="" coords="190,51,324,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,69,177,71,172,73,142,75"/>
+<area shape="rect" id="Node000003" href="$classrapidxml_1_1xml__base.html#a72e6615cd5b3133ab6c8df72c2fdcd20" title=" " alt="" coords="554,5,689,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,48,372,36,458,26,541,25,536,26,458,32,372,41,324,53"/>
+<area shape="rect" id="Node000005" href="$classrapidxml_1_1xml__base.html#a20c8ffbe0c7a0b4231681ab8b99330a4" title=" " alt="" coords="554,84,689,127"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="322,91,372,103,458,109,541,111,536,111,458,115,372,108,321,97"/>
+<area shape="rect" id="Node000006" href="$classrapidxml_1_1xml__node.html#ab7e5fd4052e4151757895c9914f5f320" title=" " alt="" coords="372,51,506,93"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="324,69,359,72,354,72,325,75"/>
+<area shape="rect" id="Node000004" href="$classrapidxml_1_1xml__base.html#acfb4a8438a4334c9fc16b70533720f22" title=" " alt="" coords="737,5,871,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="689,24,724,26,719,27,689,29"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="506,53,537,48,542,47,507,58"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="507,82,542,90,536,90,507,87"/>
+</map>

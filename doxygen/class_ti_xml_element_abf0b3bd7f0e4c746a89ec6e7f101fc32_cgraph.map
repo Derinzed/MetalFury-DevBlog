@@ -1,0 +1,16 @@
+<map id="TiXmlElement::SetAttribute" name="TiXmlElement::SetAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,186,112"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_attribute_set.html#a5e28f5d32f048fba85d04dc317495bdc" title=" " alt="" coords="250,48,382,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,84,237,79,232,81,186,89"/>
+<area shape="rect" id="Node000007" href="$class_ti_xml_attribute.html#a2dae44178f668b3cb48101be4f2236a0" title="Set the value." alt="" coords="234,115,398,141"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="186,108,221,115,216,115,186,113"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_attribute_set.html#a745e50ddaae3bee93e4589321e0b9c1a" title=" " alt="" coords="452,56,607,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,67,439,69,434,70,382,72"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_attribute_set.html#a6d4f03bb84f70c78171db27a869225c1" title=" " alt="" coords="661,5,819,32"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="382,52,446,41,549,29,648,24,643,25,549,35,446,47,383,58"/>
+<area shape="rect" id="Node000006" href="$class_ti_xml_attribute.html#ab7fa3d21ff8d7c5764cf9af15b667a99" title="Set the name of this attribute." alt="" coords="446,107,613,133"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="383,82,458,103,453,103,382,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="588,53,664,37,669,36,589,58"/>
+<area shape="rect" id="Node000005" href="$class_ti_xml_attribute.html#a83798ef3113c3522154c3fc37b4db85b" title="Return the name of this attribute." alt="" coords="666,56,814,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="608,67,653,69,648,70,608,72"/>
+</map>

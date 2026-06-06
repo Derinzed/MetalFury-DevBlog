@@ -1,0 +1,9 @@
+<map id="TiXmlDeclaration::CopyTo" name="TiXmlDeclaration::CopyTo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="283,56,457,83"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_declaration.html#a35dc1455f69b79e81cae28e186944610" title="Creates a copy of this Declaration and returns it." alt="" coords="38,5,202,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,53,189,35,189,30,288,51"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_declaration.html#a3bc617efe11014ff2b1a9c5727c37a9a" title=" " alt="" coords="28,56,212,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,70,213,72,213,67,270,69"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_declaration.html#a58ac9042c342f7845c8491da0bb091e8" title=" " alt="" coords="5,107,235,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="288,86,190,109,189,103,283,87"/>
+</map>

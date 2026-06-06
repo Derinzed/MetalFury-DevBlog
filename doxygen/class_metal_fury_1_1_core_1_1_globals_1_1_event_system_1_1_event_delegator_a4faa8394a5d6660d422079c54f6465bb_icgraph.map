@@ -1,0 +1,13 @@
+<map id="MetalFury::Core::Globals::EventSystem::EventDelegator::getInstance" name="MetalFury::Core::Globals::EventSystem::EventDelegator::getInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="280,171,486,229"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_systems_1_1_rules_manager_1_1_metal_fury_rules_manager.html#aea4eb8edd2f9b6b5ab3698212e232d5c" title=" " alt="" coords="12,5,225,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,160,289,119,230,78,210,67,208,62,233,74,292,114,343,159"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_systems_1_1_scripting_1_1_scripting_system.html#aed06355fc6d0958147dda5848e60f5ea" title=" " alt="" coords="26,88,211,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,166,212,149,211,144,275,164"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_systems_1_1_rules_manager_1_1_metal_fury_rules_manager.html#ac7e02d8f2bad2d877fe4601686d6e30b" title=" " alt="" coords="5,171,232,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="262,201,233,203,231,197,267,199"/>
+<area shape="rect" id="Node000005" href="$class_metal_fury_1_1_core_1_1_systems_1_1_scripting_1_1_scripting_system.html#acb2885d8a167f9167037ba76f78fa48d" title=" " alt="" coords="26,253,211,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="270,236,212,256,210,251,274,233"/>
+<area shape="rect" id="Node000006" href="$class_ogre3d_rendering_adapter.html#afcb027f6cd1fb98618d7546ecba6969c" title=" " alt="" coords="35,336,202,379"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="345,239,294,286,233,326,203,339,202,334,230,322,290,282,340,241"/>
+</map>

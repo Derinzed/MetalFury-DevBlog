@@ -1,0 +1,8 @@
+<map id="TiXmlAttribute::Print" name="TiXmlAttribute::Print">
+<area shape="rect" id="Node000001" title=" " alt="" coords="212,31,351,57"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="313,15,303,12,281,9,261,11,250,16,247,21,253,31,248,29,242,22,246,12,259,6,281,4,305,7,319,16"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_element.html#aa31a15cddfb8601a31236fe7d2569fb4" title=" " alt="" coords="15,5,154,32"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="194,34,154,30,154,25,199,33"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_printer.html#a6dccaf5ee4979f13877690afe28721e8" title="Visit an element." alt="" coords="5,56,164,83"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="194,55,165,62,164,56,199,55"/>
+</map>

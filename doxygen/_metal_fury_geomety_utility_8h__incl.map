@@ -1,0 +1,27 @@
+<map id="MetalFury/utils/MetalFuryGeometry/MetalFuryGeometyUtility.h" name="MetalFury/utils/MetalFuryGeometry/MetalFuryGeometyUtility.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,5,441,48"/>
+<area shape="rect" id="Node000002" href="$_metal_fury_geometry_8h.html" title=" " alt="" coords="186,96,332,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,47,280,85,276,82,304,50"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="356,96,417,123"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="340,46,370,84,364,83,339,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,179,59,205"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="209,125,145,146,72,173,70,174,66,170,70,168,143,141,214,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="82,179,128,205"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="231,125,143,173,142,173,139,169,140,168,235,121"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="153,179,210,205"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="249,122,205,170,202,166,244,125"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="234,179,284,205"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="260,121,261,165,256,162,257,125"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="308,179,369,205"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="272,121,319,168,313,168,270,126"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="392,179,445,205"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="286,121,383,168,385,171,380,171,380,173,285,126"/>
+<area shape="rect" id="Node000009" href="$_metal_fury_vectors_8h.html" title=" " alt="" coords="470,171,608,213"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="303,121,457,166,452,168,302,126"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="434,261,486,288"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="521,213,484,252,482,248,516,215"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="510,261,567,288"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="541,212,541,247,537,244,537,216"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="591,261,673,288"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="564,211,609,252,603,250,562,216"/>
+</map>

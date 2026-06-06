@@ -1,0 +1,12 @@
+<map id="MetalFury/Core/Globals/ConfigurationManager/IMF_ConfigurationFileLoader.h" name="MetalFury/Core/Globals/ConfigurationManager/IMF_ConfigurationFileLoader.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="295,5,498,64"/>
+<area shape="rect" id="Node000002" href="$_configuration_manager_8h.html" title=" " alt="" coords="256,112,420,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,76,356,113,352,110,371,80"/>
+<area shape="rect" id="Node000005" href="$_metal_fury_settings_manager_8h.html" title=" " alt="" coords="406,227,598,269"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="419,76,494,227,489,226,416,80"/>
+<area shape="rect" id="Node000003" href="$_configuration_manager_8cpp.html" title=" " alt="" coords="5,219,183,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,176,162,221,160,216,255,178"/>
+<area shape="rect" id="Node000004" href="$_metal_fury_plugin_system_8h.html" title=" " alt="" coords="206,227,382,269"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="322,183,304,228,301,225,318,186"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="396,177,472,226,467,226,395,182"/>
+</map>

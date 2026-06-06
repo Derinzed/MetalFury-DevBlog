@@ -1,0 +1,23 @@
+<map id="TXB_attr_bind" name="TXB_attr_bind">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,52,110,78"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_element.html#a6042f518748f475a7ac4b4e0b509eb05" title=" " alt="" coords="168,22,328,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,55,154,49,150,52,111,60"/>
+<area shape="rect" id="Node000005" href="$class_ti_xml_element.html#abf0b3bd7f0e4c746a89ec6e7f101fc32" title=" " alt="" coords="158,81,338,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="110,70,144,77,139,79,111,76"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_attribute_set.html#a6d4f03bb84f70c78171db27a869225c1" title=" " alt="" coords="814,26,971,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,19,386,8,497,3,608,6,711,14,801,26,795,26,711,19,608,11,497,8,386,13,312,24"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_attribute.html#a0da84344b585308878ec68605f1cbb20" title="Return the value of this attribute." alt="" coords="396,22,540,49"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="328,33,383,35,378,36,329,38"/>
+<area shape="rect" id="Node000006" href="$class_ti_xml_attribute_set.html#a5e28f5d32f048fba85d04dc317495bdc" title=" " alt="" coords="402,73,534,116"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="338,92,389,94,384,95,339,97"/>
+<area shape="rect" id="Node000010" href="$class_ti_xml_attribute.html#a2dae44178f668b3cb48101be4f2236a0" title="Set the value." alt="" coords="386,140,550,166"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="301,106,403,135,398,135,300,111"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="534,75,598,62,701,50,801,44,795,45,702,55,599,68,535,80"/>
+<area shape="rect" id="Node000007" href="$class_ti_xml_attribute_set.html#a745e50ddaae3bee93e4589321e0b9c1a" title=" " alt="" coords="604,77,760,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="534,91,591,92,586,92,535,96"/>
+<area shape="rect" id="Node000009" href="$class_ti_xml_attribute.html#ab7fa3d21ff8d7c5764cf9af15b667a99" title="Set the name of this attribute." alt="" coords="598,128,766,154"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="535,106,606,124,600,124,534,111"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="740,74,817,58,822,57,741,79"/>
+<area shape="rect" id="Node000008" href="$class_ti_xml_attribute.html#a83798ef3113c3522154c3fc37b4db85b" title="Return the name of this attribute." alt="" coords="819,77,966,104"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="760,88,805,90,800,91,760,93"/>
+</map>

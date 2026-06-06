@@ -1,0 +1,9 @@
+<map id="cpplinq::detail::sorting_range" name="cpplinq::detail::sorting_range">
+<area shape="rect" id="Node000001" title=" " alt="" coords="191,39,339,81"/>
+<area shape="rect" id="Node000003" href="$structcpplinq_1_1detail_1_1orderby__range.html" title=" " alt="" coords="387,5,586,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="354,44,389,41,384,42,354,49"/>
+<area shape="rect" id="Node000004" href="$structcpplinq_1_1detail_1_1thenby__range.html" title=" " alt="" coords="387,72,586,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="354,71,389,78,384,78,354,76"/>
+<area shape="rect" id="Node000002" href="$structcpplinq_1_1detail_1_1base__range.html" title=" " alt="" coords="5,39,143,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,57,193,59,188,61,159,63"/>
+</map>

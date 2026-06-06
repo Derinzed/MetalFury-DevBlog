@@ -1,0 +1,6 @@
+<map id="TiXmlDocument::SaveFile" name="TiXmlDocument::SaveFile">
+<area shape="rect" id="Node000001" title="Save a file using the current document value. Returns true if successful." alt="" coords="228,29,402,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="351,14,340,10,315,8,291,10,279,15,276,20,282,30,277,28,271,21,275,11,290,5,315,3,341,5,357,14"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_document.html#ae641f33784381017c44e107cc2c86b5c" title="Save a file using the given filename. Returns true if successful." alt="" coords="5,29,180,56"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="210,43,180,45,180,40,215,43"/>
+</map>

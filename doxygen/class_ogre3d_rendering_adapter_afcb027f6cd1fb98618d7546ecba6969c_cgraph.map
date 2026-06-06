@@ -1,0 +1,9 @@
+<map id="Ogre3dRenderingAdapter::windowClosed" name="Ogre3dRenderingAdapter::windowClosed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,173,97"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_globals_1_1_event_system_1_1_event_delegator.html#a4faa8394a5d6660d422079c54f6465bb" title=" " alt="" coords="221,5,427,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,59,208,55,203,56,174,64"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_globals_1_1_event_system_1_1_event_delegator.html#af1de5e99654cb12e0e027eb4511b8060" title=" " alt="" coords="221,88,427,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,88,208,96,203,97,173,93"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_globals_1_1_metal_fury_logging_1_1_metal_fury_logs.html#a7315461d211586f98420b2b7dbe80e34" title=" " alt="" coords="475,88,701,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="427,115,462,117,457,117,428,120"/>
+</map>

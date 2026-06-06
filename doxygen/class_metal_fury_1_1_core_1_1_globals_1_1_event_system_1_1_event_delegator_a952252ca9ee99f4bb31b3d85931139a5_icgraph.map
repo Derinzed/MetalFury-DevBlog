@@ -1,0 +1,7 @@
+<map id="MetalFury::Core::Globals::EventSystem::EventDelegator::subscribe" name="MetalFury::Core::Globals::EventSystem::EventDelegator::subscribe">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,47,473,105"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_systems_1_1_rules_manager_1_1_metal_fury_rules_manager.html#aea4eb8edd2f9b6b5ab3698212e232d5c" title=" " alt="" coords="5,5,219,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,57,219,54,219,49,254,57"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_systems_1_1_scripting_1_1_scripting_system.html#aed06355fc6d0958147dda5848e60f5ea" title=" " alt="" coords="20,88,204,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,96,205,105,204,100,254,94"/>
+</map>

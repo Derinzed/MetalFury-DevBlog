@@ -1,0 +1,14 @@
+<map id="MetalFury/MetalFurySmartPointer/MetalFurySmartPointer.h" name="MetalFury/MetalFurySmartPointer/MetalFurySmartPointer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="291,5,502,48"/>
+<area shape="rect" id="Node000002" href="$_i_m_f___configuration_file_loader_8h.html" title=" " alt="" coords="295,96,498,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,61,399,97,394,95,395,66"/>
+<area shape="rect" id="Node000003" href="$_configuration_manager_8h.html" title=" " alt="" coords="256,203,420,261"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,167,356,204,352,200,371,170"/>
+<area shape="rect" id="Node000006" href="$_metal_fury_settings_manager_8h.html" title=" " alt="" coords="406,317,598,360"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="419,167,494,317,489,317,416,171"/>
+<area shape="rect" id="Node000004" href="$_configuration_manager_8cpp.html" title=" " alt="" coords="5,309,183,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,267,162,311,160,306,255,269"/>
+<area shape="rect" id="Node000005" href="$_metal_fury_plugin_system_8h.html" title=" " alt="" coords="206,317,382,360"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="322,274,304,319,301,315,318,277"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="396,267,472,317,467,317,395,272"/>
+</map>

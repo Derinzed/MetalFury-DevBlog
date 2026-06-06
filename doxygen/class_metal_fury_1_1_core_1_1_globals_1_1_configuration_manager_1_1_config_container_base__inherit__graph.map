@@ -1,0 +1,11 @@
+<map id="MetalFury::Core::Globals::ConfigurationManager::ConfigContainerBase" name="MetalFury::Core::Globals::ConfigurationManager::ConfigContainerBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,173,147"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_config_container.html" title=" " alt="" coords="226,5,394,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,80,232,63,227,66,184,85"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_loose_read_only_container.html" title=" " alt="" coords="221,88,399,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,115,223,116,218,118,188,120"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_read_only_container.html" title=" " alt="" coords="226,171,394,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,150,232,170,227,170,183,155"/>
+<area shape="rect" id="Node000005" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_config_file.html" title=" " alt="" coords="447,171,614,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="409,197,449,200,444,200,409,203"/>
+</map>

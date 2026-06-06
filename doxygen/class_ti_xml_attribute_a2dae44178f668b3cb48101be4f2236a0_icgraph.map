@@ -1,0 +1,31 @@
+<map id="TiXmlAttribute::SetValue" name="TiXmlAttribute::SetValue">
+<area shape="rect" id="Node000001" title="Set the value." alt="" coords="744,343,909,369"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_element.html#abf0b3bd7f0e4c746a89ec6e7f101fc32" title=" " alt="" coords="516,220,696,247"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="785,335,632,250,633,245,790,335"/>
+<area shape="rect" id="Node000012" href="$class_ti_xml_attribute.html#a0316da31373496c4368ad549bf711394" title="Set the value from a double." alt="" coords="520,335,693,377"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="726,356,693,359,693,353,731,356"/>
+<area shape="rect" id="Node000014" href="$class_ti_xml_attribute.html#a7e065df640116a62ea4f4b7da5449cc8" title="Set the value from an integer." alt="" coords="516,401,696,428"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="761,374,660,403,659,398,756,374"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_element.html#ab931f2208ed76ba03465d8a1f86b5935" title=" " alt="" coords="279,68,436,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="574,210,526,174,467,134,393,98,393,92,469,130,529,169,579,210"/>
+<area shape="rect" id="Node000007" href="$tinybind_8h.html#a264b00d90e51fc5669cc7111509fe595" title=" " alt="" coords="305,144,410,171"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="554,214,467,185,410,170,409,165,469,180,560,213"/>
+<area shape="rect" id="Node000009" href="$tinybind_8h.html#a28018d25d5b571c7c858d14de1a3ecc2" title=" " alt="" coords="305,195,410,221"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="498,223,410,216,410,211,503,222"/>
+<area shape="rect" id="Node000010" href="$tinybind_8h.html#a4cbcfe47bcb517fec4d36bb7fa9ad353" title=" " alt="" coords="289,245,426,272"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="498,245,427,254,425,249,503,243"/>
+<area shape="rect" id="Node000011" href="$tinybind_8h.html#adcb096a4881274395dcbe27f0dc0b1a2" title=" " alt="" coords="295,296,420,323"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="559,252,469,287,421,299,420,294,467,281,554,254"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_element.html#a810ea8fa40844c01334e5af2a26794cb" title="Creates a new Element and returns it &#45; the returned element is a copy." alt="" coords="29,5,175,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="283,65,160,35,159,30,287,62"/>
+<area shape="rect" id="Node000005" href="$class_ti_xml_element.html#ad58d300f4cfc0016ffa6861ebb718a0b" title=" " alt="" coords="19,56,185,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="261,79,187,76,185,71,266,75"/>
+<area shape="rect" id="Node000006" href="$class_ti_xml_element.html#a1ca4465f3c2eac6a60e641cd7f1d9f7e" title=" " alt="" coords="5,107,199,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="262,97,196,108,193,104,266,94"/>
+<area shape="rect" id="Node000008" href="$tinybind_8h.html#a78f605c599e4dd442236b1c69bc8afdb" title=" " alt="" coords="48,157,156,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="288,163,157,170,155,165,292,159"/>
+<area shape="rect" id="Node000013" href="$class_ti_xml_element.html#a0d1dd975d75496778177e35abfe0ec0b" title=" " alt="" coords="247,347,468,373"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="501,358,469,361,468,356,507,357"/>
+<area shape="rect" id="Node000015" href="$class_ti_xml_element.html#ace6f4be75e373726d4774073d666d1a7" title=" " alt="" coords="267,401,448,428"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="498,415,448,417,448,412,503,415"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="TiXmlDocument::RootElement" name="TiXmlDocument::RootElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,205,83"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_node.html#a12c973e1da9e90a178924b8ea5a5f4d1" title="Convenience function to get through elements." alt="" coords="253,56,451,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,67,239,69,234,70,206,72"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_node.html#ae4fc3b6726cc9593784e1b622af249d5" title="The first child of this node. Will be null if there are no children." alt="" coords="504,5,655,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,53,499,36,504,35,416,58"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_node.html#a3db05b0249218e94fd41c766df87426c" title="Navigate to a sibling node." alt="" coords="499,56,660,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="451,67,486,69,481,70,451,72"/>
+<area shape="rect" id="Node000005" href="$class_ti_xml_node.html#ad05bc141115b9e49f5ab2ee72cf6cfd1" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="502,107,658,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="416,81,504,103,499,103,415,86"/>
+</map>

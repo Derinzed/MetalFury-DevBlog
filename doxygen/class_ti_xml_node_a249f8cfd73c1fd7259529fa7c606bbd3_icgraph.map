@@ -1,0 +1,16 @@
+<map id="TiXmlNode::ToText" name="TiXmlNode::ToText">
+<area shape="rect" id="Node000001" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="652,121,786,148"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_element.html#af0f814ecbd43d50d4cdbdf4354d3da39" title=" " alt="" coords="446,45,604,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="672,114,603,86,572,75,572,70,605,82,678,114"/>
+<area shape="rect" id="Node000005" href="$class_ti_xml_element.html#aa31a15cddfb8601a31236fe7d2569fb4" title=" " alt="" coords="456,96,594,123"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="634,124,594,121,594,116,639,124"/>
+<area shape="rect" id="Node000006" href="$tinybind_8h.html#a69fd6686b4bd2d8a7b81b09212032d01" title=" " alt="" coords="472,147,579,173"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="640,145,579,156,579,150,634,146"/>
+<area shape="rect" id="Node000007" href="$class_ti_xml_printer.html#a6dccaf5ee4979f13877690afe28721e8" title="Visit an element." alt="" coords="446,197,604,224"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="678,154,605,188,573,199,572,194,603,183,672,156"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_x_m_l_loader.html#a12f5b85bcb70c847c14b5b45565704d7" title=" " alt="" coords="221,29,398,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,59,399,61,398,56,434,58"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="342,15,330,10,309,8,291,10,278,15,272,21,272,30,267,28,268,19,275,10,289,5,309,3,332,5,347,14"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_x_m_l_loader.html#a0c43b282bbded3eac5e01b478b9c0626" title=" " alt="" coords="5,29,173,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,60,174,61,172,56,208,58"/>
+</map>

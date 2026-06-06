@@ -1,0 +1,34 @@
+<map id="TiXmlNode::ToElement" name="TiXmlNode::ToElement">
+<area shape="rect" id="Node000001" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="734,239,891,265"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_node.html#a12c973e1da9e90a178924b8ea5a5f4d1" title="Convenience function to get through elements." alt="" coords="482,213,681,240"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="716,242,681,240,681,235,722,241"/>
+<area shape="rect" id="Node000012" href="$class_ti_xml_node.html#aab23fca4c2455c1d926c35d85a663842" title="Convenience function to get through elements." alt="" coords="482,264,681,291"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="716,263,682,269,681,264,722,262"/>
+<area shape="rect" id="Node000013" href="$class_ti_xml_node.html#ac6105781c913a42aa7f3f17bd1964f7c" title=" " alt="" coords="477,101,686,128"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="772,231,606,131,607,126,778,230"/>
+<area shape="rect" id="Node000014" href="$class_ti_xml_node.html#a22def4746238abaee042f99b47ef3c94" title=" " alt="" coords="477,315,686,341"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="769,271,687,305,647,317,646,311,685,300,764,273"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_handle.html#afccc59d8a0daa8c5d78474fbed430ddb" title=" " alt="" coords="234,5,416,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="544,204,509,178,475,142,460,114,453,90,446,68,427,46,410,35,410,30,431,42,450,65,458,88,465,112,479,138,513,174,550,204"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_handle.html#a57a639ab0ac99ff9358f675a1b73049a" title=" " alt="" coords="234,56,416,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="549,204,475,142,453,117,428,97,402,86,402,81,430,92,456,113,479,138,555,204"/>
+<area shape="rect" id="Node000005" href="$class_ti_xml_handle.html#af0643f8683f3f2b779b8c9d78c67b2c0" title="Return a handle to the first child element." alt="" coords="221,213,429,240"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="464,227,430,229,429,224,470,226"/>
+<area shape="rect" id="Node000006" href="$class_ti_xml_handle.html#a3eaf2d2d4c087cd8a48da261042e75bc" title="Return a handle to the first child element with the given name." alt="" coords="221,264,429,291"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="493,245,397,266,395,261,498,243"/>
+<area shape="rect" id="Node000007" href="$class_ti_xml_document.html#abcbfd3e831b2f2d46732c7b4e4076b90" title=" " alt="" coords="225,315,424,341"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="490,245,478,254,464,266,455,279,446,292,430,305,404,317,402,312,428,300,442,289,451,276,460,262,476,250,486,247"/>
+<area shape="rect" id="Node000008" href="$class_ti_xml_document.html#ab7d8c7025dd910259f1fea16fc72cda0" title=" " alt="" coords="225,416,424,443"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="483,247,479,254,465,272,458,290,456,328,454,367,446,387,431,406,414,418,412,413,427,402,441,384,448,366,450,328,452,289,460,269,475,250,478,250"/>
+<area shape="rect" id="Node000010" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_x_m_l_loader.html#a12f5b85bcb70c847c14b5b45565704d7" title=" " alt="" coords="236,131,414,189"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="510,209,414,186,414,180,515,208"/>
+<area shape="rect" id="Node000011" href="$tinybind_8h.html#adeb304422ed5602d7ba579220f9c46bc" title=" " alt="" coords="274,365,376,392"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="485,247,479,254,468,266,461,278,456,303,450,330,443,343,431,355,405,370,377,378,376,373,403,365,427,351,438,340,445,328,450,302,456,276,463,263,475,250,480,249"/>
+<area shape="rect" id="Node000009" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_x_m_l_loader.html#a0c43b282bbded3eac5e01b478b9c0626" title=" " alt="" coords="5,265,173,324"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="233,410,219,406,162,368,117,327,119,322,165,364,222,402,238,411"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="228,198,222,204,172,235,129,267,125,263,169,230,219,199,232,195"/>
+<area shape="poly" id="edge11_Node000010_Node000010" title=" " alt="" coords="361,117,348,112,325,109,304,111,291,116,284,122,284,131,279,129,279,120,288,111,303,106,325,104,350,107,367,116"/>
+<area shape="poly" id="edge15_Node000013_Node000003" title=" " alt="" coords="539,94,488,71,428,47,391,35,390,30,430,41,490,66,544,94"/>
+<area shape="poly" id="edge16_Node000013_Node000004" title=" " alt="" coords="485,99,405,86,404,81,490,97"/>
+<area shape="poly" id="edge17_Node000013_Node000010" title=" " alt="" coords="485,132,415,147,413,142,489,130"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="TiXmlString::data" name="TiXmlString::data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="614,107,737,133"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_string.html#a8003fe1e6655e08bd1a360bbeb722d27" title=" " alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="601,103,566,97,349,59,166,32,166,27,350,54,567,92,606,103"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_string.html#a88ecf9f0f00cb5c67b6b637958d7049c" title=" " alt="" coords="414,107,554,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="596,120,555,123,554,117,601,120"/>
+<area shape="rect" id="Node000010" href="$class_ti_xml_string.html#ac80fe17693a438c9ab2591664743fcb6" title=" " alt="" coords="401,157,566,184"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="610,137,538,159,536,154,605,138"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_string.html#ad44b21700d2ec24a511367b222b643fb" title=" " alt="" coords="214,107,353,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="395,120,354,123,353,117,401,120"/>
+<area shape="rect" id="Node000005" href="$tinystr_8cpp.html#ac0f2988a051a761664d80de81462fc4d" title=" " alt="" coords="47,56,124,83"/>
+<area shape="poly" id="edge9_Node000003_Node000005" title=" " alt="" coords="401,104,353,97,227,83,124,74,124,69,228,77,353,92,406,103"/>
+<area shape="rect" id="Node000006" href="$tinystr_8cpp.html#ab77ef9617d62643b24e52118db159b7b" title=" " alt="" coords="47,208,124,235"/>
+<area shape="poly" id="edge10_Node000003_Node000006" title=" " alt="" coords="413,139,403,148,388,160,380,173,370,187,354,198,294,219,231,229,172,231,124,228,124,223,172,225,231,224,293,214,352,194,367,183,375,170,384,157,399,143,408,141"/>
+<area shape="rect" id="Node000009" href="$tinystr_8cpp.html#a6ee35bce93b3aaf8a2353471c0dd2d58" title=" " alt="" coords="245,157,322,184"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="416,137,323,164,321,158,411,138"/>
+<area shape="poly" id="edge8_Node000004_Node000002" title=" " alt="" coords="249,97,210,72,165,46,138,35,137,30,167,42,213,68,254,97"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="211,104,124,82,124,76,216,101"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="224,139,215,147,201,160,192,172,183,185,167,198,125,216,123,211,164,194,179,182,188,169,197,156,212,143,219,142"/>
+<area shape="rect" id="Node000007" href="$class_ti_xml_string.html#a91950ea3e12aa5f3feac07e206eae1b2" title=" " alt="" coords="5,157,166,184"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="211,139,141,159,140,154,216,136"/>
+<area shape="rect" id="Node000008" href="$class_ti_xml_string.html#a7427e8b0422a78757434b7710ed47da1" title=" " alt="" coords="5,107,166,133"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="195,121,167,123,165,117,200,119"/>
+</map>

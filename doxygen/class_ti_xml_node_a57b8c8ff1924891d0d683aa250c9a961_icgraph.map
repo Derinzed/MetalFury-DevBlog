@@ -1,0 +1,7 @@
+<map id="TiXmlNode::ToDeclaration" name="TiXmlNode::ToDeclaration">
+<area shape="rect" id="Node000001" title="Cast to a more defined type. Will return null if not of the requested type." alt="" coords="431,5,605,32"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_document.html#a789ad2f06f93d52bdb5570b2f3670289" title=" " alt="" coords="226,5,383,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="413,19,384,21,384,16,418,19"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_document.html#a41f6fe7200864d1dca663d230caf8db6" title=" " alt="" coords="5,5,178,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,19,178,21,178,16,213,19"/>
+</map>

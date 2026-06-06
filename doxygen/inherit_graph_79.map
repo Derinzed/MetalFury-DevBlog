@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classrapidxml_1_1memory__pool.html" title=" " alt="" coords="188,5,344,48"/>
+<area shape="rect" id="Node000001" href="$classrapidxml_1_1xml__document.html" title=" " alt="" coords="392,139,555,181"/>
+<area shape="poly" id="edge95_Node000000_Node000001" title=" " alt="" coords="336,53,345,58,403,97,451,138,445,138,400,102,343,62,336,58"/>
+<area shape="rect" id="Node000003" href="$classrapidxml_1_1xml__base.html" title=" " alt="" coords="5,172,140,215"/>
+<area shape="rect" id="Node000004" href="$classrapidxml_1_1xml__attribute.html" title=" " alt="" coords="189,72,342,115"/>
+<area shape="poly" id="edge96_Node000003_Node000004" title=" " alt="" coords="120,162,186,124,214,114,209,117,189,129,123,166"/>
+<area shape="rect" id="Node000005" href="$classrapidxml_1_1xml__node.html" title=" " alt="" coords="199,139,333,181"/>
+<area shape="poly" id="edge97_Node000003_Node000005" title=" " alt="" coords="154,177,201,170,196,173,156,182"/>
+<area shape="rect" id="Node000006" href="$classrapidxml_1_1xml__attribute.html" title=" " alt="" coords="189,205,342,248"/>
+<area shape="poly" id="edge98_Node000003_Node000006" title=" " alt="" coords="155,205,191,213,186,214,155,210"/>
+<area shape="rect" id="Node000002" href="$classrapidxml_1_1xml__node.html" title=" " alt="" coords="199,272,333,315"/>
+<area shape="poly" id="edge99_Node000003_Node000002" title=" " alt="" coords="122,220,189,258,214,271,209,271,186,262,121,225"/>
+<area shape="poly" id="edge100_Node000002_Node000001" title=" " alt="" coords="335,262,343,258,400,218,446,183,451,181,403,223,345,262,337,267"/>
+</map>

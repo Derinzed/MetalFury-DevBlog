@@ -1,0 +1,16 @@
+<map id="cpplinq::detail::opt::swap" name="cpplinq::detail::opt::swap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="386,165,513,208"/>
+<area shape="rect" id="Node000002" href="$structcpplinq_1_1detail_1_1opt.html#a8854305882b9391dcf95fd1b91e2424c" title=" " alt="" coords="211,76,338,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,158,318,122,318,117,395,158"/>
+<area shape="rect" id="Node000005" href="$structcpplinq_1_1detail_1_1pairwise__range.html#a7f788e023766245269f376cfa5ca4aec" title=" " alt="" coords="5,139,163,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="369,183,163,168,163,163,372,179"/>
+<area shape="rect" id="Node000006" href="$structcpplinq_1_1detail_1_1opt.html#aad2703208a1bd591363f56ad9732fe30" title=" " alt="" coords="211,195,338,237"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="368,201,339,208,338,203,373,199"/>
+<area shape="rect" id="Node000007" href="$structcpplinq_1_1detail_1_1opt.html#a68ec8851df718e1ae13152df14ccb94f" title=" " alt="" coords="211,261,338,304"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="400,215,339,252,318,263,316,258,337,247,395,217"/>
+<area shape="rect" id="Node000003" href="$structcpplinq_1_1detail_1_1select__range.html#acbf6e74fa4f68140af60fdab5e5d4ca9" title=" " alt="" coords="12,5,156,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,71,144,51,143,46,203,69"/>
+<area shape="rect" id="Node000004" href="$structcpplinq_1_1detail_1_1select__many__range.html#a1f268bc1e880b610ada8c9e00f72c6dc" title=" " alt="" coords="12,72,156,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="193,97,158,97,156,92,197,94"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="194,125,152,140,149,136,198,121"/>
+</map>

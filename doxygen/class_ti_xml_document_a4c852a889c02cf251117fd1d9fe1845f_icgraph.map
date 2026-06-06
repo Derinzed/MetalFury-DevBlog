@@ -1,0 +1,8 @@
+<map id="TiXmlDocument::LoadFile" name="TiXmlDocument::LoadFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="226,39,398,65"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="348,23,337,20,312,17,289,19,276,24,273,29,279,39,274,37,268,30,273,20,287,14,312,12,338,15,353,24"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_document.html#a879cdf5e981b8b2d2ef82f2546dd28fb" title="Load a file using the given filename. Returns true if successful." alt="" coords="5,5,178,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,37,178,34,178,29,213,36"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_x_m_l_loader.html#a0c43b282bbded3eac5e01b478b9c0626" title=" " alt="" coords="8,56,175,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,68,176,75,175,70,213,67"/>
+</map>

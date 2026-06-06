@@ -1,0 +1,11 @@
+<map id="TiXmlElement::~TiXmlElement" name="TiXmlElement::~TiXmlElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,207,91"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_element.html#a5670933ec2d7d9763b9891acc05d7f7d" title=" " alt="" coords="255,64,422,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,75,242,77,236,78,207,80"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_node.html#a708e7f953df61d4d2d12f73171550a4b" title="Delete all the children of this node. Does not affect &#39;this&#39;." alt="" coords="474,5,599,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,61,472,38,477,36,387,66"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_attribute_set.html#ab395869e9a029651378b36b6be1724eb" title=" " alt="" coords="470,56,602,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="422,75,457,77,452,78,423,80"/>
+<area shape="rect" id="Node000005" href="$class_ti_xml_attribute_set.html#a924a73d071f2573f9060f0be57879c57" title=" " alt="" coords="470,123,602,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="381,89,459,117,454,117,380,94"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TiXmlElement::CopyTo" name="TiXmlElement::CopyTo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="247,56,403,83"/>
+<area shape="rect" id="Node000002" href="$class_ti_xml_element.html#a810ea8fa40844c01334e5af2a26794cb" title="Creates a new Element and returns it &#45; the returned element is a copy." alt="" coords="29,5,175,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,53,164,35,164,30,250,51"/>
+<area shape="rect" id="Node000003" href="$class_ti_xml_element.html#ad58d300f4cfc0016ffa6861ebb718a0b" title=" " alt="" coords="19,56,185,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,70,186,72,185,67,234,69"/>
+<area shape="rect" id="Node000004" href="$class_ti_xml_element.html#a1ca4465f3c2eac6a60e641cd7f1d9f7e" title=" " alt="" coords="5,107,199,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,86,164,109,163,103,245,87"/>
+</map>

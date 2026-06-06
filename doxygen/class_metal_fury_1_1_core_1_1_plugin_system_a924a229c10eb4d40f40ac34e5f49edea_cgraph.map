@@ -1,0 +1,11 @@
+<map id="MetalFury::Core::PluginSystem::init" name="MetalFury::Core::PluginSystem::init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,210,115"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_plugin_system.html#a09770e0948a796fcd27ded264336bcad" title=" " alt="" coords="258,5,462,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,69,264,51,260,54,192,74"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_plugin_system.html#a59fac72f156a36ca3647ade5fe060eb9" title=" " alt="" coords="258,72,462,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,91,245,93,240,94,210,96"/>
+<area shape="rect" id="Node000005" href="$class_metal_fury_1_1_core_1_1_plugin_system.html#ae4e0d09a2d20ee460b689dfad56c0203" title=" " alt="" coords="258,139,462,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,113,265,134,259,135,191,118"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_plugin_system.html#abeb2206e9562e1f864fb53f661be12b1" title=" " alt="" coords="510,72,714,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="462,91,497,93,492,94,463,96"/>
+</map>

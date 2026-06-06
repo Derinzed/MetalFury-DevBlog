@@ -1,0 +1,9 @@
+<map id="MetalFury::Core::Systems::WorldPosition::WorldPosition&lt; positionStorageType &gt;" name="MetalFury::Core::Systems::WorldPosition::WorldPosition&lt; positionStorageType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="366,64,563,123"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html" title=" " alt="" coords="29,5,216,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,45,368,73,363,75,231,50"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html" title=" " alt="" coords="5,72,240,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,91,368,93,363,94,255,96"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_math_1_1_quaternion_1_1_m_f_quaternion.html" title=" " alt="" coords="29,139,216,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,136,362,113,368,112,232,141"/>
+</map>

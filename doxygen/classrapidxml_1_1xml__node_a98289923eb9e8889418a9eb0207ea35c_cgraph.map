@@ -1,0 +1,21 @@
+<map id="rapidxml::xml_node::remove_node" name="rapidxml::xml_node::remove_node">
+<area shape="rect" id="Node000001" title="Removes specified child from the node." alt="" coords="5,51,140,93"/>
+<area shape="rect" id="Node000002" href="$classrapidxml_1_1xml__node.html#aee9b7ecb01034f1857a5387af7e50e23" title=" " alt="" coords="372,51,506,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,48,187,36,256,30,324,36,363,46,358,46,324,41,256,35,188,41,138,53"/>
+<area shape="rect" id="Node000007" href="$classrapidxml_1_1xml__node.html#a62bf7b276cf7a651a3337f5e0a0ef6ac" title=" " alt="" coords="188,51,324,93"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="140,69,175,71,170,73,141,75"/>
+<area shape="rect" id="Node000008" href="$classrapidxml_1_1xml__node.html#a9182512e948ec451a83f116cce7c7674" title=" " alt="" coords="188,117,324,160"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="133,91,183,111,178,112,133,96"/>
+<area shape="rect" id="Node000003" href="$classrapidxml_1_1xml__base.html#a72e6615cd5b3133ab6c8df72c2fdcd20" title=" " alt="" coords="737,5,871,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,47,554,36,640,26,724,25,718,26,640,32,555,41,506,53"/>
+<area shape="rect" id="Node000005" href="$classrapidxml_1_1xml__base.html#a20c8ffbe0c7a0b4231681ab8b99330a4" title=" " alt="" coords="737,84,871,127"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="504,91,555,103,640,109,724,111,718,111,640,115,554,108,503,97"/>
+<area shape="rect" id="Node000006" href="$classrapidxml_1_1xml__node.html#ab7e5fd4052e4151757895c9914f5f320" title=" " alt="" coords="554,51,689,93"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="507,69,542,72,536,72,507,75"/>
+<area shape="rect" id="Node000004" href="$classrapidxml_1_1xml__base.html#acfb4a8438a4334c9fc16b70533720f22" title=" " alt="" coords="919,5,1053,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="871,24,906,26,901,27,872,29"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="689,53,719,48,724,47,690,58"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="689,82,724,90,719,90,689,87"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="324,69,359,72,354,72,325,75"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="316,114,362,100,367,99,317,119"/>
+</map>

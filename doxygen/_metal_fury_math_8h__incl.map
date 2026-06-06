@@ -1,0 +1,26 @@
+<map id="MetalFury/utils/MetalFuryMath/MetalFuryMath.h" name="MetalFury/utils/MetalFuryMath/MetalFuryMath.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="342,5,511,48"/>
+<area shape="rect" id="Node000002" href="$_m_f_quaternion_8h.html" title=" " alt="" coords="51,96,188,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,51,204,95,202,90,356,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="194,261,251,288"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="339,44,294,65,272,80,254,98,234,133,224,173,221,213,221,247,217,244,215,212,218,172,229,131,249,94,269,75,291,60,343,41"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="263,104,320,131"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="397,47,325,98,322,93,392,50"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="344,104,415,131"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="417,47,395,92,391,88,413,50"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="439,104,506,131"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="438,46,462,91,456,89,436,51"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="530,104,605,131"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="460,46,537,95,532,95,459,51"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="628,104,699,131"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="487,46,618,94,624,98,619,98,616,98,487,51"/>
+<area shape="rect" id="Node000012" href="$_metal_fury_enumerations_8h.html" title=" " alt="" coords="722,104,925,131"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="512,44,754,99,749,101,511,50"/>
+<area shape="rect" id="Node000003" href="$_metal_fury_vectors_8h.html" title=" " alt="" coords="52,187,187,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,137,122,172,117,170,118,142"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,261,58,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,213,60,253,57,249,102,215"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="138,211,194,251,189,252,137,216"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="82,261,165,288"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="122,212,124,247,119,245,118,216"/>
+</map>

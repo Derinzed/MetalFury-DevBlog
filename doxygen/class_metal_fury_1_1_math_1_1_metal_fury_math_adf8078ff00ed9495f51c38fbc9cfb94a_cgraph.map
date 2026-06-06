@@ -1,0 +1,11 @@
+<map id="MetalFury::Math::MetalFuryMath::getSignedAngle" name="MetalFury::Math::MetalFuryMath::getSignedAngle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,188,115"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#a770abb3dc42e56861be38898ff5383c8" title=" " alt="" coords="243,5,411,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,69,238,52,234,54,173,74"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_math_1_1_metal_fury_math.html#a999e282b00c43565571e28f9875df225" title=" " alt="" coords="236,72,418,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,91,223,93,217,94,188,96"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#ab80ce7adc447154a406510f81580ee5b" title=" " alt="" coords="243,139,411,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,113,239,133,233,134,172,118"/>
+<area shape="rect" id="Node000005" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#a0214f3c1e754abff3366f3cd397b8200" title=" " alt="" coords="466,139,634,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="412,157,453,160,448,160,412,163"/>
+</map>

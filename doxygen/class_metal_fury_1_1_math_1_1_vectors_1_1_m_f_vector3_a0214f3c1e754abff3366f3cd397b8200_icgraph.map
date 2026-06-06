@@ -1,0 +1,15 @@
+<map id="MetalFury::Math::Vectors::MFVector3::length" name="MetalFury::Math::Vectors::MFVector3::length">
+<area shape="rect" id="Node000001" title=" " alt="" coords="471,105,639,148"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#ab80ce7adc447154a406510f81580ee5b" title=" " alt="" coords="255,72,423,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,112,424,109,423,104,458,111"/>
+<area shape="rect" id="Node000005" href="$class_metal_fury_1_1_math_1_1_vectors_1_1_m_f_vector3.html#a1f256e9a1402d1e76faf9432fa63bd9c" title=" " alt="" coords="255,139,423,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="453,143,424,150,423,144,458,141"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_math_1_1_metal_fury_math.html#a0a016161d4291f68783ec8e106450dc7" title=" " alt="" coords="15,5,197,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,68,184,51,183,46,250,66"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_math_1_1_metal_fury_math.html#adf8078ff00ed9495f51c38fbc9cfb94a" title=" " alt="" coords="15,72,197,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="237,94,198,96,197,91,242,92"/>
+<area shape="rect" id="Node000006" href="$class_metal_fury_1_1_math_1_1_metal_fury_math.html#ae7a16c9ee4fd5ccffb8fe7825a6311b9" title=" " alt="" coords="15,139,197,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="237,161,198,163,197,157,242,159"/>
+<area shape="rect" id="Node000007" href="$class_metal_fury_1_1_math_1_1_quaternion_1_1_m_f_quaternion.html#ad4ef82af9108bc7a349937461ff2133f" title=" " alt="" coords="5,205,207,248"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="250,185,184,207,183,202,245,187"/>
+</map>

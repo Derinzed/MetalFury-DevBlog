@@ -1,0 +1,30 @@
+<map id="rapidxml::xml_node::first_attribute" name="rapidxml::xml_node::first_attribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="436,211,570,253"/>
+<area shape="rect" id="Node000002" href="$classrapidxml_1_1xml__node.html#a33ce3386f8c42dd4db658b75cbb6e6c4" title=" " alt="" coords="235,5,370,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,197,445,130,418,94,386,62,370,51,370,46,390,58,422,90,450,127,489,197"/>
+<area shape="rect" id="Node000004" href="$classrapidxml_1_1memory__pool.html#a3925460987a199b302e11eb34de40139" title=" " alt="" coords="9,173,165,216"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="419,227,166,204,165,199,422,223"/>
+<area shape="rect" id="Node000005" href="$namespacerapidxml.html#a6255d15e5d8ad12ebcd7c60da51c97e2" title=" " alt="" coords="217,139,388,165"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="435,205,387,186,341,169,341,163,389,182,440,204"/>
+<area shape="rect" id="Node000006" href="$classrapidxml_1_1xml__node.html#a8b62ee76489faf8e2d1210869d547684" title=" " alt="" coords="235,72,370,115"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="470,199,432,164,387,129,367,118,366,113,389,124,436,160,475,199"/>
+<area shape="rect" id="Node000007" href="$classrapidxml_1_1xml__node.html#aa8d5d9484aa1eb5ff1841a073c84c1aa" title="Removes all attributes of node." alt="" coords="226,240,379,283"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="418,245,380,253,379,248,423,243"/>
+<area shape="rect" id="Node000010" href="$classrapidxml_1_1xml__node.html#a6f97b1b4f46a94a4587915df3c0c6b57" title=" " alt="" coords="20,373,154,416"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="495,266,481,309,460,354,430,397,411,415,389,430,358,444,324,452,290,454,255,451,190,438,136,419,136,414,191,433,256,446,290,448,324,446,356,439,387,426,407,411,426,393,455,351,477,307,491,270"/>
+<area shape="rect" id="Node000011" href="$classrapidxml_1_1xml__node.html#aa95192d2a165cca16c551ed2a2a06aec" title=" " alt="" coords="225,307,380,349"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="454,260,389,297,363,308,361,304,387,292,450,262"/>
+<area shape="rect" id="Node000012" href="$classrapidxml_1_1xml__node.html#a1781a2cbedc9a51d609ad5b528125635" title=" " alt="" coords="225,373,380,416"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="481,264,442,316,417,341,390,364,369,375,367,370,386,359,413,337,438,313,477,267"/>
+<area shape="rect" id="Node000003" href="$classrapidxml_1_1xml__node.html#a9fe659cdf4a5b3bbf5e8ffc98db5a84f" title=" " alt="" coords="20,39,154,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="218,41,156,52,153,47,222,37"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="120,159,109,154,87,152,67,154,54,159,50,165,51,173,46,173,44,163,51,154,66,149,87,147,110,149,125,157"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="218,82,156,73,154,68,222,79"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="214,236,159,219,158,214,219,234"/>
+<area shape="rect" id="Node000008" href="$classrapidxml_1_1xml__document.html#a826929ff54242532198701f19ff5f83f" title=" " alt="" coords="5,307,169,349"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="215,289,160,308,157,304,219,286"/>
+<area shape="rect" id="Node000009" href="$classrapidxml_1_1xml__document.html#ac6e73ff9ac323bf5a370c38feb03a6b1" title=" " alt="" coords="5,240,169,283"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="208,263,170,264,168,259,213,260"/>
+<area shape="poly" id="edge14_Node000011_Node000010" title=" " alt="" coords="215,355,155,376,154,371,220,353"/>
+<area shape="poly" id="edge16_Node000012_Node000010" title=" " alt="" coords="207,395,155,397,155,392,212,394"/>
+</map>

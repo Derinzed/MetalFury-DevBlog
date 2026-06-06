@@ -1,0 +1,16 @@
+<map id="rapidxml::count_children" name="rapidxml::count_children">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,168,69"/>
+<area shape="rect" id="Node000002" href="$classrapidxml_1_1xml__node.html#aee9b7ecb01034f1857a5387af7e50e23" title=" " alt="" coords="216,64,350,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,66,203,73,197,73,168,71"/>
+<area shape="rect" id="Node000006" href="$classrapidxml_1_1xml__node.html#ab7e5fd4052e4151757895c9914f5f320" title=" " alt="" coords="398,5,532,48"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="168,47,383,31,381,35,168,52"/>
+<area shape="rect" id="Node000003" href="$classrapidxml_1_1xml__base.html#a72e6615cd5b3133ab6c8df72c2fdcd20" title=" " alt="" coords="580,93,715,136"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,95,398,101,568,113,562,114,398,107,350,100"/>
+<area shape="rect" id="Node000005" href="$classrapidxml_1_1xml__base.html#a20c8ffbe0c7a0b4231681ab8b99330a4" title=" " alt="" coords="580,16,715,59"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="350,78,532,57,563,55,568,54,533,63,351,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="350,61,381,54,386,52,351,66"/>
+<area shape="rect" id="Node000004" href="$classrapidxml_1_1xml__base.html#acfb4a8438a4334c9fc16b70533720f22" title=" " alt="" coords="763,93,897,136"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="715,112,750,115,745,115,715,117"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="512,46,591,86,585,86,511,51"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="533,28,568,32,562,33,533,33"/>
+</map>

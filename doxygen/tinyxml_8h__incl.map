@@ -1,0 +1,19 @@
+<map id="MetalFury/XMLLibs/tinyxml.h" name="MetalFury/XMLLibs/tinyxml.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="279,5,470,32"/>
+<area shape="rect" id="Node000002" href="$_m_f_tiny_x_m_l_config_8h.html" title=" " alt="" coords="5,80,147,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="321,35,144,78,142,73,323,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="170,80,235,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="342,34,248,76,246,71,347,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="259,80,320,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="362,31,317,72,314,68,357,34"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="343,80,406,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="376,30,377,66,372,63,373,35"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="438,155,503,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="386,30,421,79,459,142,454,140,416,81,383,35"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="540,155,609,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="471,27,522,45,545,60,565,78,573,92,578,108,580,141,576,138,573,109,568,95,561,82,542,64,520,50,470,32"/>
+<area shape="rect" id="Node000008" href="$tinystr_8h.html" title=" " alt="" coords="482,80,550,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="400,30,480,72,475,73,399,35"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="510,106,488,144,485,139,506,109"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="527,105,557,143,552,142,525,110"/>
+</map>

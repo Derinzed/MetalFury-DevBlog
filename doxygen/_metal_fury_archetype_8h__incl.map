@@ -1,0 +1,21 @@
+<map id="MetalFury/Core/Systems/MetalFuryAECS/Core/MetalFuryArchetype.h" name="MetalFury/Core/Systems/MetalFuryAECS/Core/MetalFuryArchetype.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="193,5,408,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,52,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,67,68,114,65,109,211,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="76,112,186,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,66,170,107,167,102,248,63"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="210,112,263,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="282,63,256,101,253,97,278,66"/>
+<area shape="rect" id="Node000005" href="$_metal_fury_component_8h.html" title=" " alt="" coords="287,112,444,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="322,62,350,100,345,99,321,67"/>
+<area shape="rect" id="Node000006" href="$_metal_fury_e_c_s_types_8h.html" title=" " alt="" coords="469,112,622,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="380,62,499,106,494,107,380,67"/>
+<area shape="rect" id="Node000008" href="$_metal_fury_component_vector_8h.html" title=" " alt="" coords="646,112,840,139"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="408,55,667,107,662,109,408,60"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="519,187,572,213"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="548,137,548,173,544,169,544,141"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="662,187,731,213"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="737,138,714,176,711,171,733,140"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="754,187,823,213"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="752,137,775,174,770,172,750,142"/>
+</map>

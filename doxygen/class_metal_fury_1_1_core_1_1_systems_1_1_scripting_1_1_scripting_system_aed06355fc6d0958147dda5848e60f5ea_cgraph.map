@@ -1,0 +1,9 @@
+<map id="MetalFury::Core::Systems::Scripting::ScriptingSystem::bindScriptToEvent" name="MetalFury::Core::Systems::Scripting::ScriptingSystem::bindScriptToEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,190,147"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_globals_1_1_event_system_1_1_event_delegator.html#a4faa8394a5d6660d422079c54f6465bb" title=" " alt="" coords="238,5,444,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,85,240,68,236,71,187,90"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_systems_1_1_scripting_1_1_scripting_system.html#a952f9e6a2d9f921155679298b4287d07" title=" " alt="" coords="249,88,433,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,115,235,116,230,118,191,120"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_globals_1_1_event_system_1_1_event_delegator.html#a952252ca9ee99f4bb31b3d85931139a5" title=" " alt="" coords="238,171,444,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,145,240,165,235,166,186,150"/>
+</map>
