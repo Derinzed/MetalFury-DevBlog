@@ -4,7 +4,7 @@ This implementation is built fully in accordance with the MetalFury Manifesto, a
 Here you can explore the structure of the engine and how its systems are composed.
 
 # API Docs
-[API Documentation](./MetalFury-DevBlog/doxygen/index.html)
+[API Documentation](./doxygen/index.html)
 
 # Systems
 At the heart of MetalFury is the concept of a **system**.  
