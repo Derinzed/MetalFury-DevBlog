@@ -3,7 +3,7 @@ Though MetalFury is a philosophy first, it also has a practical implementation.
 This implementation is built fully in accordance with the MetalFury Manifesto, and expresses its principles through deliberate, modular architecture.  
 Here you can explore the structure of the engine and how its systems are composed.
 
-#API Docs
+# API Docs
 [API Documentation](./doxygen/index.html)
 
 # Systems
