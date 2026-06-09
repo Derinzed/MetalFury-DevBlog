@@ -1,0 +1,5 @@
+<map id="MetalFury::Core::Systems::UISystem::MFUI::GetTemplateById" name="MetalFury::Core::Systems::UISystem::MFUI::GetTemplateById">
+<area shape="rect" id="Node000001" title="Retrieve a previously loaded template by id." alt="" coords="277,13,515,56"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_systems_1_1_u_i_system_1_1_m_f_u_i.html#a938d750e84f8da9bf2d7698f54cae6ac" title="Insert a template into the currently active graph as a child of the element specified by parentElemen..." alt="" coords="5,5,229,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,35,229,37,229,32,264,34"/>
+</map>

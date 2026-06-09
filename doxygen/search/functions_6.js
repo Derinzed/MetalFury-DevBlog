@@ -1,8 +1,8 @@
 var searchData=
 [
   ['file_0',['file',['../classrapidxml_1_1file.html#ae881a3cab1fe7152d45c92a8d7606cb3',1,'rapidxml::file::file(const char *filename)'],['../classrapidxml_1_1file.html#a90707ccd991cc392dcf4bef37eed9d1f',1,'rapidxml::file::file(std::basic_istream&lt; Ch &gt; &amp;stream)']]],
-  ['find_1',['find',['../class_ti_xml_string.html#a22fc54a23c5a0ab771331a25a769516e',1,'TiXmlString::find(char lookup) const'],['../class_ti_xml_string.html#a2d66cfd6986faceda62ca62db553a921',1,'TiXmlString::find(char tofind, size_type offset) const']]],
-  ['find_2',['Find',['../class_ti_xml_attribute_set.html#a6d4f03bb84f70c78171db27a869225c1',1,'TiXmlAttributeSet']]],
+  ['find_1',['Find',['../class_ti_xml_attribute_set.html#a6d4f03bb84f70c78171db27a869225c1',1,'TiXmlAttributeSet']]],
+  ['find_2',['find',['../class_ti_xml_string.html#a22fc54a23c5a0ab771331a25a769516e',1,'TiXmlString::find(char lookup) const'],['../class_ti_xml_string.html#a2d66cfd6986faceda62ca62db553a921',1,'TiXmlString::find(char tofind, size_type offset) const']]],
   ['findinfofromname_3',['findInfoFromName',['../class_metal_fury_lua.html#ad67ff712581753fd5c42ec5c82002413',1,'MetalFuryLua']]],
   ['findorcreate_4',['FindOrCreate',['../class_ti_xml_attribute_set.html#a5e28f5d32f048fba85d04dc317495bdc',1,'TiXmlAttributeSet']]],
   ['first_5',['First',['../class_ti_xml_attribute_set.html#ab395869e9a029651378b36b6be1724eb',1,'TiXmlAttributeSet::First() const'],['../class_ti_xml_attribute_set.html#a30fc409ad6d27cebbcbfeafa4fc2a24d',1,'TiXmlAttributeSet::First()']]],

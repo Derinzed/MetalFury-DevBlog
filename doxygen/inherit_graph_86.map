@@ -1,13 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,56,109,83"/>
-<area shape="rect" id="Node000001" href="$class_metal_fury_1_1_metal_fury_exception.html" title=" " alt="" coords="157,5,360,32"/>
-<area shape="poly" id="edge103_Node000000_Node000001" title=" " alt="" coords="123,50,156,41,204,31,199,34,157,47,125,55"/>
-<area shape="rect" id="Node000002" href="$structcpplinq_1_1base__exception.html" title=" " alt="" coords="178,56,339,83"/>
-<area shape="poly" id="edge104_Node000000_Node000002" title=" " alt="" coords="124,67,180,68,175,70,124,72"/>
-<area shape="rect" id="Node000005" href="$classrapidxml_1_1parse__error.html" title=" " alt="" coords="187,107,330,133"/>
-<area shape="poly" id="edge107_Node000000_Node000005" title=" " alt="" coords="124,84,157,92,204,106,199,106,156,97,123,89"/>
-<area shape="rect" id="Node000003" href="$structcpplinq_1_1programming__error__exception.html" title=" " alt="" coords="420,15,565,57"/>
-<area shape="poly" id="edge105_Node000002_Node000003" title=" " alt="" coords="354,53,422,46,417,47,355,58"/>
-<area shape="rect" id="Node000004" href="$structcpplinq_1_1sequence__empty__exception.html" title=" " alt="" coords="408,81,577,124"/>
-<area shape="poly" id="edge106_Node000002_Node000004" title=" " alt="" coords="354,80,410,91,405,91,354,86"/>
+<area shape="rect" id="Node000000" href="$classrapidxml_1_1attribute__iterator.html" title="Iterator of child attributes of xml_node." alt="" coords="5,5,131,48"/>
 </map>

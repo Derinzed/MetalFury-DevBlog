@@ -1,9 +1,9 @@
 <map id="cpplinq::ref" name="cpplinq::ref">
-<area shape="rect" id="Node000001" title=" " alt="" coords="454,63,539,89"/>
-<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a4eeb975b2f74e290f0f86d139f03ba3a" title=" " alt="" coords="239,39,406,113"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,76,407,79,406,73,441,76"/>
-<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_systems_1_1_metal_fury_settings_manager.html#a924d28533cb3d460e73ccb0b7208fd15" title="Retrieve a setting value from a loaded file container." alt="" coords="5,5,191,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,58,191,54,191,49,226,57"/>
-<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_systems_1_1_metal_fury_settings_manager.html#aeefef787982653a61f1028d5f41fe7d2" title="Set or create a setting in a loaded file container." alt="" coords="5,88,191,147"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="221,95,192,103,191,98,226,94"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="510,63,595,89"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a4eeb975b2f74e290f0f86d139f03ba3a" title=" " alt="" coords="295,39,462,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="491,76,463,79,462,73,497,76"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_systems_1_1_settings_manager_1_1_metal_fury_settings_manager.html#a538b0adf316fce5a084594f7a8b72e49" title="Retrieve a setting value from a loaded file container." alt="" coords="5,5,247,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="276,60,247,57,247,52,282,59"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_systems_1_1_settings_manager_1_1_metal_fury_settings_manager.html#a4e0166b09ff0d4411d12074fad754a0f" title="Set or create a setting in a loaded file container." alt="" coords="5,88,247,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="277,93,248,100,247,95,282,92"/>
 </map>

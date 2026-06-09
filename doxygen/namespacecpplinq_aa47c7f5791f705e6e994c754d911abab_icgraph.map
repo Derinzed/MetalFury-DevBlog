@@ -1,24 +1,24 @@
 <map id="cpplinq::where" name="cpplinq::where">
-<area shape="rect" id="Node000001" title=" " alt="" coords="687,252,793,279"/>
-<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a417ea77f3eb06af9bf9d5afef126d546" title=" " alt="" coords="472,179,639,253"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="670,248,640,241,640,236,675,247"/>
-<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a831630326a684807d7fbd41f01c4f45a" title=" " alt="" coords="472,80,639,155"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="714,240,680,206,638,169,623,158,624,153,641,165,683,202,719,241"/>
-<area shape="rect" id="Node000009" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a0b01696d5396d5ed3cac5350d82f77c4" title=" " alt="" coords="472,277,639,352"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="675,283,640,295,639,290,670,284"/>
-<area shape="rect" id="Node000010" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a4eeb975b2f74e290f0f86d139f03ba3a" title=" " alt="" coords="472,376,639,451"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="719,289,683,329,641,366,625,378,623,373,638,362,680,325,714,292"/>
-<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_systems_1_1_metal_fury_settings_manager.html#aeefef787982653a61f1028d5f41fe7d2" title="Set or create a setting in a loaded file container." alt="" coords="239,285,424,344"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,258,401,287,399,282,456,260"/>
-<area shape="rect" id="Node000005" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#aa4848be9710b28df539942beaff2429c" title=" " alt="" coords="248,171,415,245"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="456,158,417,176,414,172,460,156"/>
-<area shape="rect" id="Node000007" href="$class_metal_fury_1_1_core_1_1_systems_1_1_metal_fury_settings_manager.html#ac3bc2f786941d0f2cef1213da5c6e3e2" title="Save all loaded settings back to their recorded original filepaths." alt="" coords="239,5,424,64"/>
-<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="455,82,413,67,413,62,460,81"/>
-<area shape="rect" id="Node000008" href="$class_metal_fury_1_1_core_1_1_systems_1_1_metal_fury_settings_manager.html#ac6b85ccd226762305d86053e732b5588" title="Save a specific loaded file back to its original filepath." alt="" coords="239,88,424,147"/>
-<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="454,118,425,120,424,115,459,116"/>
-<area shape="rect" id="Node000006" href="$class_metal_fury_1_1_core_1_1_systems_1_1_metal_fury_settings_manager.html#a4d4410ffeedf706f605debe1f13f535c" title="Load settings from a file and register a container for it." alt="" coords="5,179,191,237"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="230,209,192,210,190,206,235,207"/>
-<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="456,371,399,347,400,342,461,371"/>
-<area shape="rect" id="Node000011" href="$class_metal_fury_1_1_core_1_1_systems_1_1_metal_fury_settings_manager.html#a924d28533cb3d460e73ccb0b7208fd15" title="Retrieve a setting value from a loaded file container." alt="" coords="239,384,424,443"/>
-<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="454,413,425,416,424,411,459,413"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="799,252,905,279"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a417ea77f3eb06af9bf9d5afef126d546" title=" " alt="" coords="584,179,751,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="782,247,752,241,752,236,787,247"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a831630326a684807d7fbd41f01c4f45a" title=" " alt="" coords="584,80,751,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="826,240,792,206,750,169,735,158,736,153,753,165,795,202,831,241"/>
+<area shape="rect" id="Node000009" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a0b01696d5396d5ed3cac5350d82f77c4" title=" " alt="" coords="584,277,751,352"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="787,283,752,295,751,290,782,284"/>
+<area shape="rect" id="Node000010" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a4eeb975b2f74e290f0f86d139f03ba3a" title=" " alt="" coords="584,376,751,451"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="831,289,795,329,753,366,737,378,735,373,750,362,792,325,826,292"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_systems_1_1_settings_manager_1_1_metal_fury_settings_manager.html#a4e0166b09ff0d4411d12074fad754a0f" title="Set or create a setting in a loaded file container." alt="" coords="295,285,536,344"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="572,253,493,287,492,282,567,255"/>
+<area shape="rect" id="Node000005" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#aa4848be9710b28df539942beaff2429c" title=" " alt="" coords="332,171,499,245"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="567,154,501,180,499,175,572,151"/>
+<area shape="rect" id="Node000007" href="$class_metal_fury_1_1_core_1_1_systems_1_1_settings_manager_1_1_metal_fury_settings_manager.html#a0d9b6cb067c31fe4f17cc4e0671ff868" title="Save all loaded settings back to their recorded original filepaths." alt="" coords="295,5,536,64"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="567,86,507,67,507,62,572,85"/>
+<area shape="rect" id="Node000008" href="$class_metal_fury_1_1_core_1_1_systems_1_1_settings_manager_1_1_metal_fury_settings_manager.html#a1b282aa1a1e96fccaef4e382ccfe40eb" title="Save a specific loaded file back to its original filepath." alt="" coords="295,88,536,147"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="566,118,537,120,536,115,571,117"/>
+<area shape="rect" id="Node000006" href="$class_metal_fury_1_1_core_1_1_systems_1_1_settings_manager_1_1_metal_fury_settings_manager.html#aaa54d0bdde6c627b8924c1cb7c29e54a" title="Load settings from a file and register a container for it." alt="" coords="5,179,247,237"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="314,209,248,211,246,205,318,207"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="567,375,492,347,493,342,572,375"/>
+<area shape="rect" id="Node000011" href="$class_metal_fury_1_1_core_1_1_systems_1_1_settings_manager_1_1_metal_fury_settings_manager.html#a538b0adf316fce5a084594f7a8b72e49" title="Retrieve a setting value from a loaded file container." alt="" coords="295,384,536,443"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="566,413,537,416,537,411,571,413"/>
 </map>

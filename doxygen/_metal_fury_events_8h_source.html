@@ -85,23 +85,29 @@ $(function() { codefold.init(0); });
 <div class="contents">
 <a href="_metal_fury_events_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#pragma once</span></div>
 <div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="preprocessor">#include &quot;<a class="code" href="_metal_fury_macros_8h.html">utils\MetalFuryMacros.h</a>&quot;</span></div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
-<div class="foldopen" id="foldopen00004" data-start="{" data-end="}">
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno"><a class="line" href="namespace_metal_fury_1_1_core_1_1_globals_1_1_events.html">    4</a></span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespace_metal_fury_1_1_core_1_1_globals_1_1_events.html">MetalFury::Core::Globals::Events</a> {</div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span> </div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>    <span class="comment">//core class for MFevents</span></div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>    <span class="comment">//events should only be packets of data to pass from a broadcaster to listeners</span></div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno"><a class="line" href="class_metal_fury_1_1_core_1_1_globals_1_1_events_1_1_metal_fury_events.html">    8</a></span>    <span class="keyword">class </span><a class="code hl_class" href="class_metal_fury_1_1_core_1_1_globals_1_1_events_1_1_metal_fury_events.html">MetalFuryEvents</a> {};</div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>    <a class="code hl_define" href="_metal_fury_macros_8h.html#a94f70260868510ccfa5cf22b618985be">MF_BasicEvent</a>(MetalFuryStartup)</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    <a class="code hl_define" href="_metal_fury_macros_8h.html#a94f70260868510ccfa5cf22b618985be">MF_BasicEvent</a>(MetalFuryShutdown)</div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span> </div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>}</div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="preprocessor">#include &quot;<a class="code" href="_dynamic_properties_8h.html">Core\Globals\Types\DynamicProperties.h</a>&quot;</span></div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span> </div>
+<div class="foldopen" id="foldopen00005" data-start="{" data-end="}">
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno"><a class="line" href="namespace_metal_fury_1_1_core_1_1_globals_1_1_events.html">    5</a></span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespace_metal_fury_1_1_core_1_1_globals_1_1_events.html">MetalFury::Core::Globals::Events</a> {</div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span> </div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>    <span class="comment">//core class for MFevents</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>    <span class="comment">//events should only be packets of data to pass from a broadcaster to listeners</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno"><a class="line" href="class_metal_fury_1_1_core_1_1_globals_1_1_events_1_1_metal_fury_events.html">    9</a></span>    <span class="keyword">class </span><a class="code hl_class" href="class_metal_fury_1_1_core_1_1_globals_1_1_events_1_1_metal_fury_events.html">MetalFuryEvents</a> {};</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    <a class="code hl_define" href="_metal_fury_macros_8h.html#a94f70260868510ccfa5cf22b618985be">MF_BasicEvent</a>(MetalFuryStartup)</div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    <a class="code hl_define" href="_metal_fury_macros_8h.html#a94f70260868510ccfa5cf22b618985be">MF_BasicEvent</a>(MetalFuryShutdown)</div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span> </div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    <span class="keyword">struct </span>MF_DynamicEvent : <span class="keyword">public</span> <a class="code hl_class" href="class_metal_fury_1_1_core_1_1_globals_1_1_events_1_1_metal_fury_events.html">MetalFuryEvents</a>{</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>        <a class="code hl_struct" href="struct_m_f_dyn_props.html">MFDynProps</a> properties;</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    };</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>}</div>
 </div>
+<div class="ttc" id="a_dynamic_properties_8h_html"><div class="ttname"><a href="_dynamic_properties_8h.html">DynamicProperties.h</a></div></div>
 <div class="ttc" id="a_metal_fury_macros_8h_html"><div class="ttname"><a href="_metal_fury_macros_8h.html">MetalFuryMacros.h</a></div></div>
 <div class="ttc" id="a_metal_fury_macros_8h_html_a94f70260868510ccfa5cf22b618985be"><div class="ttname"><a href="_metal_fury_macros_8h.html#a94f70260868510ccfa5cf22b618985be">MF_BasicEvent</a></div><div class="ttdeci">#define MF_BasicEvent(eventName)</div><div class="ttdef"><b>Definition</b> MetalFuryMacros.h:2</div></div>
-<div class="ttc" id="aclass_metal_fury_1_1_core_1_1_globals_1_1_events_1_1_metal_fury_events_html"><div class="ttname"><a href="class_metal_fury_1_1_core_1_1_globals_1_1_events_1_1_metal_fury_events.html">MetalFury::Core::Globals::Events::MetalFuryEvents</a></div><div class="ttdef"><b>Definition</b> MetalFuryEvents.h:8</div></div>
-<div class="ttc" id="anamespace_metal_fury_1_1_core_1_1_globals_1_1_events_html"><div class="ttname"><a href="namespace_metal_fury_1_1_core_1_1_globals_1_1_events.html">MetalFury::Core::Globals::Events</a></div><div class="ttdef"><b>Definition</b> MetalFuryEvents.h:4</div></div>
+<div class="ttc" id="aclass_metal_fury_1_1_core_1_1_globals_1_1_events_1_1_metal_fury_events_html"><div class="ttname"><a href="class_metal_fury_1_1_core_1_1_globals_1_1_events_1_1_metal_fury_events.html">MetalFury::Core::Globals::Events::MetalFuryEvents</a></div><div class="ttdef"><b>Definition</b> MetalFuryEvents.h:9</div></div>
+<div class="ttc" id="anamespace_metal_fury_1_1_core_1_1_globals_1_1_events_html"><div class="ttname"><a href="namespace_metal_fury_1_1_core_1_1_globals_1_1_events.html">MetalFury::Core::Globals::Events</a></div><div class="ttdef"><b>Definition</b> MetalFuryEvents.h:5</div></div>
+<div class="ttc" id="astruct_m_f_dyn_props_html"><div class="ttname"><a href="struct_m_f_dyn_props.html">MFDynProps</a></div><div class="ttdef"><b>Definition</b> DynamicProperties.h:9</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

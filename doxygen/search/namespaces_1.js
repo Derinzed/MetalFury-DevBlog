@@ -18,12 +18,14 @@ var searchData=
   ['metalfury_3a_3acore_3a_3asystems_3a_3arenderer_15',['Renderer',['../namespace_metal_fury_1_1_core_1_1_systems_1_1_renderer.html',1,'MetalFury::Core::Systems']]],
   ['metalfury_3a_3acore_3a_3asystems_3a_3arulesmanager_16',['RulesManager',['../namespace_metal_fury_1_1_core_1_1_systems_1_1_rules_manager.html',1,'MetalFury::Core::Systems']]],
   ['metalfury_3a_3acore_3a_3asystems_3a_3ascripting_17',['Scripting',['../namespace_metal_fury_1_1_core_1_1_systems_1_1_scripting.html',1,'MetalFury::Core::Systems']]],
-  ['metalfury_3a_3acore_3a_3asystems_3a_3aworldposition_18',['WorldPosition',['../namespace_metal_fury_1_1_core_1_1_systems_1_1_world_position.html',1,'MetalFury::Core::Systems']]],
-  ['metalfury_3a_3afactories_19',['Factories',['../namespace_metal_fury_1_1_factories.html',1,'MetalFury']]],
-  ['metalfury_3a_3ainterfaces_20',['Interfaces',['../namespace_metal_fury_1_1_interfaces.html',1,'MetalFury']]],
-  ['metalfury_3a_3amath_21',['Math',['../namespace_metal_fury_1_1_math.html',1,'MetalFury']]],
-  ['metalfury_3a_3amath_3a_3aquaternion_22',['Quaternion',['../namespace_metal_fury_1_1_math_1_1_quaternion.html',1,'MetalFury::Math']]],
-  ['metalfury_3a_3amath_3a_3avectors_23',['Vectors',['../namespace_metal_fury_1_1_math_1_1_vectors.html',1,'MetalFury::Math']]],
-  ['metalfury_3a_3autils_24',['Utils',['../namespace_metal_fury_1_1_utils.html',1,'MetalFury']]],
-  ['metalfury_3a_3autils_3a_3ageometry_25',['Geometry',['../namespace_metal_fury_1_1_utils_1_1_geometry.html',1,'MetalFury::Utils']]]
+  ['metalfury_3a_3acore_3a_3asystems_3a_3asettingsmanager_18',['SettingsManager',['../namespace_metal_fury_1_1_core_1_1_systems_1_1_settings_manager.html',1,'MetalFury::Core::Systems']]],
+  ['metalfury_3a_3acore_3a_3asystems_3a_3auisystem_19',['UISystem',['../namespace_metal_fury_1_1_core_1_1_systems_1_1_u_i_system.html',1,'MetalFury::Core::Systems']]],
+  ['metalfury_3a_3acore_3a_3asystems_3a_3aworldposition_20',['WorldPosition',['../namespace_metal_fury_1_1_core_1_1_systems_1_1_world_position.html',1,'MetalFury::Core::Systems']]],
+  ['metalfury_3a_3afactories_21',['Factories',['../namespace_metal_fury_1_1_factories.html',1,'MetalFury']]],
+  ['metalfury_3a_3ainterfaces_22',['Interfaces',['../namespace_metal_fury_1_1_interfaces.html',1,'MetalFury']]],
+  ['metalfury_3a_3amath_23',['Math',['../namespace_metal_fury_1_1_math.html',1,'MetalFury']]],
+  ['metalfury_3a_3amath_3a_3aquaternion_24',['Quaternion',['../namespace_metal_fury_1_1_math_1_1_quaternion.html',1,'MetalFury::Math']]],
+  ['metalfury_3a_3amath_3a_3avectors_25',['Vectors',['../namespace_metal_fury_1_1_math_1_1_vectors.html',1,'MetalFury::Math']]],
+  ['metalfury_3a_3autils_26',['Utils',['../namespace_metal_fury_1_1_utils.html',1,'MetalFury']]],
+  ['metalfury_3a_3autils_3a_3ageometry_27',['Geometry',['../namespace_metal_fury_1_1_utils_1_1_geometry.html',1,'MetalFury::Utils']]]
 ];

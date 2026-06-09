@@ -1,0 +1,13 @@
+<map id="MetalFury::Core::Systems::SettingsManager::MetalFurySettingsManager::saveAllSettings" name="MetalFury::Core::Systems::SettingsManager::MetalFurySettingsManager::saveAllSettings">
+<area shape="rect" id="Node000001" title="Save all loaded settings back to their recorded original filepaths." alt="" coords="5,89,247,148"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a831630326a684807d7fbd41f01c4f45a" title=" " alt="" coords="295,32,462,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,92,282,88,277,90,248,98"/>
+<area shape="rect" id="Node000006" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#add142bc032ae927f0ed148e207bc186e" title=" " alt="" coords="295,131,462,205"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="247,140,282,149,277,149,247,145"/>
+<area shape="rect" id="Node000003" href="$namespacecpplinq.html#a3cacb481e886ac7fec5ba79bbb24048a" title=" " alt="" coords="516,5,609,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,44,504,35,499,36,463,49"/>
+<area shape="rect" id="Node000004" href="$namespacecpplinq.html#a280743c3cee36a065d0bb697ec4dc7e8" title=" " alt="" coords="514,56,611,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="462,67,501,69,496,70,463,72"/>
+<area shape="rect" id="Node000005" href="$namespacecpplinq.html#aa47c7f5791f705e6e994c754d911abab" title=" " alt="" coords="510,107,615,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="463,90,499,102,494,102,462,95"/>
+</map>

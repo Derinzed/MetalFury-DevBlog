@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['value_0',['value',['../classrapidxml_1_1xml__base.html#af3a3d4534f4c88f151e0f063aef1c6de',1,'rapidxml::xml_base::value() const'],['../classrapidxml_1_1xml__base.html#a3b183c2db7022a6d30494dd2f0ac11e9',1,'rapidxml::xml_base::value(const Ch *value, std::size_t size)'],['../classrapidxml_1_1xml__base.html#a81e63ec4bfd2d7ef0a6c2ed49be6e623',1,'rapidxml::xml_base::value(const Ch *value)']]],
-  ['value_1',['Value',['../class_ti_xml_node.html#a3b260dd22313f310c0acb2e68ada6f5b',1,'TiXmlNode::Value()'],['../class_ti_xml_attribute.html#a0da84344b585308878ec68605f1cbb20',1,'TiXmlAttribute::Value()']]],
+  ['value_0',['Value',['../class_ti_xml_node.html#a3b260dd22313f310c0acb2e68ada6f5b',1,'TiXmlNode::Value()'],['../class_ti_xml_attribute.html#a0da84344b585308878ec68605f1cbb20',1,'TiXmlAttribute::Value()']]],
+  ['value_1',['value',['../classrapidxml_1_1xml__base.html#af3a3d4534f4c88f151e0f063aef1c6de',1,'rapidxml::xml_base::value() const'],['../classrapidxml_1_1xml__base.html#a3b183c2db7022a6d30494dd2f0ac11e9',1,'rapidxml::xml_base::value(const Ch *value, std::size_t size)'],['../classrapidxml_1_1xml__base.html#a81e63ec4bfd2d7ef0a6c2ed49be6e623',1,'rapidxml::xml_base::value(const Ch *value)']]],
   ['value_5fsize_2',['value_size',['../classrapidxml_1_1xml__base.html#a2eb123d471b1567fa4832b6ee2b75493',1,'rapidxml::xml_base']]],
   ['valuetstr_3',['ValueTStr',['../class_ti_xml_node.html#af59b2b26e416acdf7bb0895fdbe05fa9',1,'TiXmlNode']]],
   ['version_4',['Version',['../class_ti_xml_declaration.html#aa4059b08504a70db291005015dcead02',1,'TiXmlDeclaration']]],

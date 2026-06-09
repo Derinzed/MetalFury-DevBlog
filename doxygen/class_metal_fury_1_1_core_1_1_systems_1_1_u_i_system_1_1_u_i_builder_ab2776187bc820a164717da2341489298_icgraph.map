@@ -1,0 +1,11 @@
+<map id="MetalFury::Core::Systems::UISystem::UIBuilder::HasID" name="MetalFury::Core::Systems::UISystem::UIBuilder::HasID">
+<area shape="rect" id="Node000001" title="Returns true if the given unique ID has already been registered with this builder instance." alt="" coords="259,105,455,148"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_systems_1_1_u_i_system_1_1_u_i_builder.html#af4f574ef9666591ac3bdbfe05d7ec8dc" title="Add a Button element as a child of the current element." alt="" coords="10,5,206,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,99,210,62,180,51,179,46,212,58,301,98"/>
+<area shape="rect" id="Node000003" href="$class_metal_fury_1_1_core_1_1_systems_1_1_u_i_system_1_1_u_i_builder.html#a085175f27810495be9ff01b4ffc586f8" title="Add an Image element as a child of the current element." alt="" coords="11,72,205,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,112,206,109,205,104,246,111"/>
+<area shape="rect" id="Node000004" href="$class_metal_fury_1_1_core_1_1_systems_1_1_u_i_system_1_1_u_i_builder.html#ac726142256a413f9a9e050ba5a0e11ba" title="Begin a Menu element and make it the current element." alt="" coords="13,139,203,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,143,204,150,203,145,246,141"/>
+<area shape="rect" id="Node000005" href="$class_metal_fury_1_1_core_1_1_systems_1_1_u_i_system_1_1_u_i_builder.html#ab7fa43dac0a211501c2e1a4b785409f3" title="Begin a Window element and make it the current element." alt="" coords="5,205,211,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="301,154,212,196,180,207,179,202,210,191,296,156"/>
+</map>

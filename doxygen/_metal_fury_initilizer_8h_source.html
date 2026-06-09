@@ -112,13 +112,18 @@ $(function() { codefold.init(0); });
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span> </div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>        <span class="keyword">template</span>&lt;<span class="keyword">typename</span>... Types&gt;</div>
 <div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>        std::vector&lt;std::any&gt; initializeCoreSystems() {</div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>            <span class="keywordflow">return</span> { std::any(Types())... };</div>
-<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>        }</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>        std::shared_ptr&lt;MetalFuryExecution&gt; MF_Executor;</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    };</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>            <span class="comment">// Store shared_ptr instances of systems inside std::any so that</span></div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>            <span class="comment">// non-copyable system implementations (e.g., those holding</span></div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>            <span class="comment">// unique_ptr members) can still be stored and managed by the</span></div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>            <span class="comment">// executor. getCoreSystem&lt;T&gt;() understands shared_ptr&lt;T&gt; stored in</span></div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>            <span class="comment">// the any container.</span></div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>            <span class="keywordflow">return</span> { std::any(std::make_shared&lt;Types&gt;())... };</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>        }</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>        std::shared_ptr&lt;MetalFuryExecution&gt; MF_Executor;</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>    };</div>
 </div>
-<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>}</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>}</div>
 <div class="ttc" id="a_metal_fury_execution_8h_html"><div class="ttname"><a href="_metal_fury_execution_8h.html">MetalFuryExecution.h</a></div></div>
 <div class="ttc" id="aclass_metal_fury_1_1_core_1_1_metal_fury_execution_html_a07e960085d6023a9efd1f7d7f32103b8"><div class="ttname"><a href="class_metal_fury_1_1_core_1_1_metal_fury_execution.html#a07e960085d6023a9efd1f7d7f32103b8">MetalFury::Core::MetalFuryExecution::createExecutor</a></div><div class="ttdeci">static void createExecutor(std::shared_ptr&lt; MetalFuryExecution &gt; exec)</div><div class="ttdef"><b>Definition</b> MetalFuryExecution.h:33</div></div>
 <div class="ttc" id="aclass_metal_fury_1_1_core_1_1_metal_fury_initializer_html"><div class="ttname"><a href="class_metal_fury_1_1_core_1_1_metal_fury_initializer.html">MetalFury::Core::MetalFuryInitializer</a></div><div class="ttdef"><b>Definition</b> MetalFuryInitilizer.h:9</div></div>

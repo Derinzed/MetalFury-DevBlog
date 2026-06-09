@@ -1,0 +1,20 @@
+<map id="MetalFury::Core::Systems::SettingsManager::MetalFurySettingsManager::setSetting" name="MetalFury::Core::Systems::SettingsManager::MetalFurySettingsManager::setSetting">
+<area shape="rect" id="Node000001" title="Set or create a setting in a loaded file container." alt="" coords="5,112,247,171"/>
+<area shape="rect" id="Node000002" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a417ea77f3eb06af9bf9d5afef126d546" title=" " alt="" coords="295,5,462,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,109,282,79,278,82,204,114"/>
+<area shape="rect" id="Node000006" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#a4eeb975b2f74e290f0f86d139f03ba3a" title=" " alt="" coords="295,104,462,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="246,139,281,141,276,142,248,144"/>
+<area shape="rect" id="Node000008" href="$class_metal_fury_1_1_core_1_1_globals_1_1_configuration_manager_1_1_configuration_manager.html#add142bc032ae927f0ed148e207bc186e" title=" " alt="" coords="295,203,462,277"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="203,169,283,201,278,202,203,174"/>
+<area shape="rect" id="Node000003" href="$namespacecpplinq.html#a3cacb481e886ac7fec5ba79bbb24048a" title=" " alt="" coords="516,27,609,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,39,503,40,498,42,463,44"/>
+<area shape="rect" id="Node000004" href="$namespacecpplinq.html#a280743c3cee36a065d0bb697ec4dc7e8" title=" " alt="" coords="514,77,611,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="462,62,502,74,497,75,463,67"/>
+<area shape="rect" id="Node000005" href="$namespacecpplinq.html#aa47c7f5791f705e6e994c754d911abab" title=" " alt="" coords="510,128,615,155"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="445,78,511,114,522,121,516,120,509,118,445,83"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="441,101,509,63,517,62,521,59,511,68,443,106"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="462,116,502,107,497,109,463,121"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="462,139,497,141,492,142,463,144"/>
+<area shape="rect" id="Node000007" href="$namespacecpplinq.html#a7158144625baf8e53c539bdb3264c92a" title=" " alt="" coords="520,179,605,205"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="463,162,508,176,502,176,462,167"/>
+</map>

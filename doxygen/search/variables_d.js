@@ -24,6 +24,7 @@ var searchData=
   ['prev_21',['prev',['../structc_j_s_o_n.html#ad521633b2c32126f59d962c5673de362',1,'cJSON::prev'],['../class_ti_xml_node.html#a9c5370ea2cbfd9f0e0f7b30a57fd68f5',1,'TiXmlNode::prev']]],
   ['previous_22',['previous',['../structcpplinq_1_1detail_1_1pairwise__range.html#afabfdf33a3919f1dcc6e2259369adace',1,'cpplinq::detail::pairwise_range']]],
   ['print_5fno_5findenting_23',['print_no_indenting',['../namespacerapidxml.html#a65477b812a80f5bda693ec57e57de064',1,'rapidxml']]],
-  ['propertytype_24',['propertyType',['../class_metal_fury_1_1_core_1_1_core_system_state_property.html#a266af39545eabb0b4be64fac15f69f5b',1,'MetalFury::Core::CoreSystemStateProperty']]],
-  ['propertyvalue_25',['propertyValue',['../class_metal_fury_1_1_core_1_1_core_system_state_property.html#aa55564438c8427c2bbe4e1bdd2d23ce4',1,'MetalFury::Core::CoreSystemStateProperty']]]
+  ['properties_24',['properties',['../struct_m_f_dyn_props.html#a4d6ee50062a85db7a7fbe45f87312ad5',1,'MFDynProps::properties'],['../struct_metal_fury_1_1_core_1_1_systems_1_1_u_i_system_1_1_u_i_element.html#a6a2605e914910b46f9a4322621424e55',1,'MetalFury::Core::Systems::UISystem::UIElement::properties']]],
+  ['propertytype_25',['propertyType',['../class_metal_fury_1_1_core_1_1_core_system_state_property.html#a266af39545eabb0b4be64fac15f69f5b',1,'MetalFury::Core::CoreSystemStateProperty']]],
+  ['propertyvalue_26',['propertyValue',['../class_metal_fury_1_1_core_1_1_core_system_state_property.html#aa55564438c8427c2bbe4e1bdd2d23ce4',1,'MetalFury::Core::CoreSystemStateProperty']]]
 ];
